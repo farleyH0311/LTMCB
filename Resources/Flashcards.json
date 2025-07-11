@@ -1,0 +1,5902 @@
+{
+  "Contracts": [
+    {
+      "front": {
+        "Word": "abide by",
+        "Phonetic": "/əˈbaɪd baɪ/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "tuân thủ, tuân theo."
+      }
+    },
+    {
+      "front": {
+        "Word": "agreement",
+        "Phonetic": "/əˈɡriː.mənt/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sự thỏa thuận hợp đồng (= contract)"
+      }
+    },
+    {
+      "front": {
+        "Word": "assurance",
+        "Phonetic": "/əˈʃʊr.əns/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "sự đảm bảo (n) đảm bảo (v)"
+      }
+    },
+    {
+      "front": {
+        "Word": "cancellation",
+        "Phonetic": "/ˌkæn.səlˈeɪ.ʃən/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sự hủy bỏ, chấm dứt (n)"
+      }
+    },
+    {
+      "front": {
+        "Word": "determine",
+        "Phonetic": "/dɪˈtɜːrmɪn/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "xác định"
+      }
+    },
+    {
+      "front": {
+        "Word": "engage",
+        "Phonetic": "/ɪnˈɡeɪdʒ/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "tham dự"
+      }
+    },
+    {
+      "front": {
+        "Word": "establish",
+        "Phonetic": "/ɪˈstæblɪʃ/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "thành lập, thiết lập"
+      }
+    },
+    {
+      "front": {
+        "Word": "obligate",
+        "Phonetic": "/ˈɑːblɪɡeɪt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "bắt buộc"
+      }
+    },
+    {
+      "front": {
+        "Word": "party",
+        "Phonetic": "/ˈpɑːrti/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "bên (tham gia hợp đồng)"
+      }
+    },
+    {
+      "front": {
+        "Word": "provision",
+        "Phonetic": "/prəˈvɪʒ.ən/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sự cung cấp, chu cấp điều khoản"
+      }
+    },
+    {
+      "front": {
+        "Word": "resolve",
+        "Phonetic": "/rɪˈzɔːlv/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "giải quyết, quyết định"
+      }
+    },
+    {
+      "front": {
+        "Word": "specific",
+        "Phonetic": "/spəˈsɪf.ɪk/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "cụ thể"
+      }
+    }
+  ],
+  "Marketing": [
+    {
+      "front": {
+        "Word": "attract",
+        "Phonetic": "/əˈtrækt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "thu hút, hấp dẫn"
+      }
+    },
+    {
+      "front": {
+        "Word": "compare",
+        "Phonetic": "/kəmˈper/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "so sánh, đối chiếu"
+      }
+    },
+    {
+      "front": {
+        "Word": "competition",
+        "Phonetic": "/ˌkɑːm.pəˈtɪʃ.ən/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sự cạnh tranh cuộc thi"
+      }
+    },
+    {
+      "front": {
+        "Word": "consume",
+        "Phonetic": "/kən’sju:m/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "tiêu thụ, sử dụng"
+      }
+    },
+    {
+      "front": {
+        "Word": "convince",
+        "Phonetic": "/kənˈvɪns/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "thuyết phục"
+      }
+    },
+    {
+      "front": {
+        "Word": "inspiration",
+        "Phonetic": "/ˌɪn.spəˈreɪ.ʃən/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "nguồn cảm hứng"
+      }
+    },
+    {
+      "front": {
+        "Word": "market",
+        "Phonetic": "/ˈmɑːrkɪt/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "thị trường"
+      }
+    },
+    {
+      "front": {
+        "Word": "persuasion",
+        "Phonetic": "/pɚˈsweɪ.ʒən/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sự thuyết phục"
+      }
+    },
+    {
+      "front": {
+        "Word": "productive",
+        "Phonetic": "/prəˈdʌk.tɪv/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "năng suất"
+      }
+    },
+    {
+      "front": {
+        "Word": "satisfaction",
+        "Phonetic": "/ˌsæt̬.ɪsˈfæk.ʃən/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sự hài lòng"
+      }
+    },
+    {
+      "front": {
+        "Word": "currently",
+        "Phonetic": "/ˈkɝː.ənt.li/",
+        "Definition": "adv"
+      },
+      "back": {
+        "Meaning": "hiện thời, hiện nay"
+      }
+    },
+    {
+      "front": {
+        "Word": "fad",
+        "Phonetic": "/fæd/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "mốt nhất thời"
+      }
+    }
+  ],
+  "Warranties": [
+    {
+      "front": {
+        "Word": "characteristic(adj, n) /ˌker.ək.təˈrɪs.tɪk/ đặc thù",
+        "Phonetic": "/ˈkɑːnsɪkwens/",
+        "Definition": "adj) đặc trưng, đặc điểm (n) 26 consequence (n"
+      },
+      "back": {
+        "Meaning": "kết quả, hậu quả"
+      }
+    },
+    {
+      "front": {
+        "Word": "cover",
+        "Phonetic": "/ˈkʌvər/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "che phủ, bao gồm"
+      }
+    },
+    {
+      "front": {
+        "Word": "expiration",
+        "Phonetic": "/ˌek.spəˈreɪ.ʃən/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sự hết hạn"
+      }
+    },
+    {
+      "front": {
+        "Word": "frequently",
+        "Phonetic": "/ˈfriːkwəntli/",
+        "Definition": "adv"
+      },
+      "back": {
+        "Meaning": "thường xuyên"
+      }
+    },
+    {
+      "front": {
+        "Word": "imply",
+        "Phonetic": "/ɪmˈplaɪ/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "ngụ ý, hàm ý"
+      }
+    },
+    {
+      "front": {
+        "Word": "promise",
+        "Phonetic": "/ˈprɑːmɪs lời hứa, sự cam đoan (n) hứa, cam kết (v) 32 reputation (n) /ˌrepjuˈteɪʃn/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "danh tiếng, thanh danh"
+      }
+    },
+    {
+      "front": {
+        "Word": "require",
+        "Phonetic": "/rɪˈkwaɪər/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "đòi hỏi, yêu cầu"
+      }
+    },
+    {
+      "front": {
+        "Word": "variety",
+        "Phonetic": "/vəˈraɪəti/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sự đa dạng"
+      }
+    }
+  ],
+  "Business planning": [
+    {
+      "front": {
+        "Word": "address",
+        "Phonetic": "/əˈdres/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "trình bày (v) bài diễn văn (n)"
+      }
+    },
+    {
+      "front": {
+        "Word": "avoid",
+        "Phonetic": "/əˈvɔɪd/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "phòng tránh, ngăn ngừa"
+      }
+    },
+    {
+      "front": {
+        "Word": "demonstrate",
+        "Phonetic": "/ˈdemənstreɪt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "chứng minh, giải thích"
+      }
+    },
+    {
+      "front": {
+        "Word": "develop",
+        "Phonetic": "/dɪˈveləp/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "phát triển"
+      }
+    },
+    {
+      "front": {
+        "Word": "evaluate",
+        "Phonetic": "/ɪˈvæljueɪt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "đánh giá, ước lượng"
+      }
+    },
+    {
+      "front": {
+        "Word": "gather",
+        "Phonetic": "/ˈɡæðər/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "tập hợp, thu thập"
+      }
+    },
+    {
+      "front": {
+        "Word": "offer",
+        "Phonetic": "/ˈɔːfər/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "đề xuất, đề nghị"
+      }
+    },
+    {
+      "front": {
+        "Word": "primarily",
+        "Phonetic": "/praɪˈmerəli/",
+        "Definition": "adv"
+      },
+      "back": {
+        "Meaning": "ưu tiên, chủ yếu"
+      }
+    },
+    {
+      "front": {
+        "Word": "risk",
+        "Phonetic": "/rɪsk/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "rủi ro, nguy cơ"
+      }
+    },
+    {
+      "front": {
+        "Word": "strategy",
+        "Phonetic": "/ˈstrætədʒi/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "chiến lược"
+      }
+    },
+    {
+      "front": {
+        "Word": "strengthen",
+        "Phonetic": "/ˈstreŋθn/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "làm mạnh, củng cố"
+      }
+    },
+    {
+      "front": {
+        "Word": "substitution",
+        "Phonetic": "/ˌsʌb.stəˈtuː.ʃən/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sự thay thế (= replacement)"
+      }
+    }
+  ],
+  "Conferences": [
+    {
+      "front": {
+        "Word": "accommodate",
+        "Phonetic": "/əˈkɑːmədeɪt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "cung cấp chỗ"
+      }
+    },
+    {
+      "front": {
+        "Word": "arrangement",
+        "Phonetic": "/əˈreɪndʒ.mənt/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sự sắp xếp, sắp đặt"
+      }
+    },
+    {
+      "front": {
+        "Word": "association",
+        "Phonetic": "/əˌsoʊ.siˈeɪ.ʃən/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "liên hiệp, đoàn thể (= organization) sự liên hiệp"
+      }
+    },
+    {
+      "front": {
+        "Word": "attend",
+        "Phonetic": "/əˈtend/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "tham gia, tham dự"
+      }
+    },
+    {
+      "front": {
+        "Word": "get in touch with somebody",
+        "Phonetic": "/həʊld/",
+        "Definition": "v) liên lạc với ai, kết nối với ai (= connect) 52 hold (v"
+      },
+      "back": {
+        "Meaning": "tiến hành, tổ chức (= organize) chứa, đựng (= contain)"
+      }
+    },
+    {
+      "front": {
+        "Word": "location",
+        "Phonetic": "/loʊˈkeɪ.ʃən/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "vị trí, địa điểm"
+      }
+    },
+    {
+      "front": {
+        "Word": "overcrowded",
+        "Phonetic": "/oʊvərˈkraʊdɪd/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "quá đông đúc, chật kín"
+      }
+    },
+    {
+      "front": {
+        "Word": "register",
+        "Phonetic": "/ˈredʒɪstər/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "hồ sơ, sổ sách (n) đăng ký (v)"
+      }
+    },
+    {
+      "front": {
+        "Word": "select",
+        "Phonetic": "/sɪˈlekt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "lựa chọn"
+      }
+    },
+    {
+      "front": {
+        "Word": "session",
+        "Phonetic": "/ˈseʃn/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "cuộc họp"
+      }
+    },
+    {
+      "front": {
+        "Word": "take part in",
+        "Phonetic": "/teɪk pɑrt ɪn/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "tham gia vào"
+      }
+    }
+  ],
+  "Computers": [
+    {
+      "front": {
+        "Word": "access",
+        "Phonetic": "/ˈækses/",
+        "Definition": "n,v"
+      },
+      "back": {
+        "Meaning": "truy cập (v) quyền truy cập (n)"
+      }
+    },
+    {
+      "front": {
+        "Word": "allocate",
+        "Phonetic": "/ˈæləkeɪt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "phân phát, cấp cho"
+      }
+    },
+    {
+      "front": {
+        "Word": "compatible with something",
+        "Phonetic": "/kəmˈpætəbl/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "tương thích, tương xứng với cái gì"
+      }
+    },
+    {
+      "front": {
+        "Word": "delete",
+        "Phonetic": "/dɪˈliːt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "xóa (= remove)"
+      }
+    },
+    {
+      "front": {
+        "Word": "display",
+        "Phonetic": "/dɪˈspleɪ/",
+        "Definition": "n,v"
+      },
+      "back": {
+        "Meaning": "sự trưng bày, vật trưng bày (n) trưng bày, hiển thị (v)"
+      }
+    },
+    {
+      "front": {
+        "Word": "duplicate",
+        "Phonetic": "/ˈfeɪ.ljɚ/",
+        "Definition": "v, n) ˈduː.plə.keɪt/ sao chép, nhân đôi (v) bản sao (n) 65 failure (n"
+      },
+      "back": {
+        "Meaning": "sự thất bại"
+      }
+    },
+    {
+      "front": {
+        "Word": "figure out",
+        "Phonetic": "/ˈfɪɡjər aʊt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "hiểu ra, tìm ra"
+      }
+    },
+    {
+      "front": {
+        "Word": "ignore",
+        "Phonetic": "/ɪɡˈnɔːr/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "phớt lờ"
+      }
+    },
+    {
+      "front": {
+        "Word": "search",
+        "Phonetic": "/sɜːrtʃ/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "sự tìm kiếm (n) tìm kiếm (v)"
+      }
+    },
+    {
+      "front": {
+        "Word": "shut down",
+        "Phonetic": "/ʃʌt daʊn/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "tắt"
+      }
+    },
+    {
+      "front": {
+        "Word": "warning",
+        "Phonetic": "/ˈwɔːr.nɪŋ/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "lời cảnh báo, sự cảnh báo"
+      }
+    }
+  ],
+  "Office Technology": [
+    {
+      "front": {
+        "Word": "affordable",
+        "Phonetic": "/əˈfɔːr.də.bəl/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "có khả năng chi trả, phải chăng"
+      }
+    },
+    {
+      "front": {
+        "Word": "as needed",
+        "Phonetic": "/æz niːdɪd/",
+        "Definition": "adv"
+      },
+      "back": {
+        "Meaning": "khi cần thiết"
+      }
+    },
+    {
+      "front": {
+        "Word": "capacity",
+        "Phonetic": "/kəˈpæsəti/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sức chứa, dung lượng"
+      }
+    },
+    {
+      "front": {
+        "Word": "durable",
+        "Phonetic": "/ˈdʊrəbl/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "bền"
+      }
+    },
+    {
+      "front": {
+        "Word": "be in charge of",
+        "Phonetic": "/ɪn tʃɑːrdʒ əv/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "chịu trách nhiệm về"
+      }
+    },
+    {
+      "front": {
+        "Word": "initiative",
+        "Phonetic": "/ɪˈnɪʃ.ə.t̬ɪv/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sáng kiến sự chủ động, thế chủ động"
+      }
+    },
+    {
+      "front": {
+        "Word": "physically",
+        "Phonetic": "/ˈfɪz.ɪ.kəl.i/",
+        "Definition": "adv"
+      },
+      "back": {
+        "Meaning": "về mặt thể chất"
+      }
+    },
+    {
+      "front": {
+        "Word": "provider",
+        "Phonetic": "/prəˈvaɪ.dɚ/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "nhà cung cấp (= supplier)"
+      }
+    },
+    {
+      "front": {
+        "Word": "recur",
+        "Phonetic": "/rɪˈkɜːr/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "tái diễn"
+      }
+    },
+    {
+      "front": {
+        "Word": "reduction",
+        "Phonetic": "/rɪˈdʌk.ʃən/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sự giảm sút"
+      }
+    },
+    {
+      "front": {
+        "Word": "stay on top of",
+        "Phonetic": "/steɪ ɔːn tɑːp əv/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "nắm bắt tình hình"
+      }
+    },
+    {
+      "front": {
+        "Word": "stock",
+        "Phonetic": "/stɑːk/",
+        "Definition": "v, n"
+      },
+      "back": {
+        "Meaning": "hàng tồn, cổ phần (n) tích trữ (v) Từ vựng TOEIC chủ đề Office technology (Công nghệ văn phòng) Từ vựng TOEIC chủ đề Office technology (Công nghệ văn phòng)"
+      }
+    }
+  ],
+  "Office procedures": [
+    {
+      "front": {
+        "Word": "appreciation",
+        "Phonetic": "/əˌpriː.ʃiˈeɪ.ʃən/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sự cảm kích, sự ghi nhận"
+      }
+    },
+    {
+      "front": {
+        "Word": "bring in",
+        "Phonetic": "/brɪŋ ɪn/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "dẫn đến tuyển dụng, thuê"
+      }
+    },
+    {
+      "front": {
+        "Word": "casually",
+        "Phonetic": "/ˈkæʒ.uː.ə.li/",
+        "Definition": "adv"
+      },
+      "back": {
+        "Meaning": "bình thường"
+      }
+    },
+    {
+      "front": {
+        "Word": "code",
+        "Phonetic": "/koʊd/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "quy tắc, luật lệ"
+      }
+    },
+    {
+      "front": {
+        "Word": "expose",
+        "Phonetic": "/ɪkˈspoʊz/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "phơi bày, bộc lộ"
+      }
+    },
+    {
+      "front": {
+        "Word": "glimpse",
+        "Phonetic": "/ɡlɪmps/",
+        "Definition": "v,n"
+      },
+      "back": {
+        "Meaning": "liếc, nhìn thoáng qua (v) cái nhìn thoáng qua (n)"
+      }
+    },
+    {
+      "front": {
+        "Word": "be made of",
+        "Phonetic": "/bi meɪd əv/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "làm bằng (chất liệu) bao gồm (= consist of)"
+      }
+    },
+    {
+      "front": {
+        "Word": "out of",
+        "Phonetic": "/aʊt əv/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "hết, không còn"
+      }
+    },
+    {
+      "front": {
+        "Word": "outdated",
+        "Phonetic": "/aʊtˈdeɪtɪd/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "lỗi thời, lạc hậu"
+      }
+    },
+    {
+      "front": {
+        "Word": "practice",
+        "Phonetic": "/ˈpræktɪs/",
+        "Definition": "n,v"
+      },
+      "back": {
+        "Meaning": "luyện tập (v) sự luyện tập (n)"
+      }
+    },
+    {
+      "front": {
+        "Word": "reinforce",
+        "Phonetic": "/riːɪnˈfɔːrs/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "tăng cường, củng cố"
+      }
+    },
+    {
+      "front": {
+        "Word": "verbally",
+        "Phonetic": "/ˈvɝː.bəl.i/",
+        "Definition": "adv"
+      },
+      "back": {
+        "Meaning": "bằng lời nói"
+      }
+    }
+  ],
+  "Electronics": [
+    {
+      "front": {
+        "Word": "device",
+        "Phonetic": "/dɪˈvaɪs/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "thiết bị, máy móc"
+      }
+    },
+    {
+      "front": {
+        "Word": "facilitate",
+        "Phonetic": "/fəˈsɪlɪteɪt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "làm cho dễ dàng"
+      }
+    },
+    {
+      "front": {
+        "Word": "network",
+        "Phonetic": "/ˈnetwɜːrk/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "mạng lưới (n) kết nối (v)"
+      }
+    },
+    {
+      "front": {
+        "Word": "popularity",
+        "Phonetic": "/ˌpɑː.pjəˈler.ə.t̬i/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "tính phổ biến"
+      }
+    },
+    {
+      "front": {
+        "Word": "process",
+        "Phonetic": "/ˈproʊses/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "quá trình (n) xử lý (v)"
+      }
+    },
+    {
+      "front": {
+        "Word": "replace",
+        "Phonetic": "/rɪˈpleɪs/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "thay thế (= substitute)"
+      }
+    },
+    {
+      "front": {
+        "Word": "revolution",
+        "Phonetic": "/ˌrev.əˈluː.ʃən/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "cuộc cách mạng"
+      }
+    },
+    {
+      "front": {
+        "Word": "sharp",
+        "Phonetic": "/ʃɑːrp/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "thông minh sắc bén, nhọn"
+      }
+    },
+    {
+      "front": {
+        "Word": "skill",
+        "Phonetic": "/skɪl/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "kỹ năng"
+      }
+    },
+    {
+      "front": {
+        "Word": "software",
+        "Phonetic": "/ˈsɔːftwer/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "phần mềm"
+      }
+    },
+    {
+      "front": {
+        "Word": "store",
+        "Phonetic": "/stɔːr/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "lưu trữ, chứa"
+      }
+    },
+    {
+      "front": {
+        "Word": "technical",
+        "Phonetic": "/ˈteknɪkl/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "thuộc về kĩ thuật, chuyên môn"
+      }
+    }
+  ],
+  "Correspondences": [
+    {
+      "front": {
+        "Word": "assemble",
+        "Phonetic": "/əˈsembl/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "lắp ráp, thu thập"
+      }
+    },
+    {
+      "front": {
+        "Word": "beforehand",
+        "Phonetic": "/bɪˈfɔːrhænd/",
+        "Definition": "adv"
+      },
+      "back": {
+        "Meaning": "trước, có sẵn"
+      }
+    },
+    {
+      "front": {
+        "Word": "complication",
+        "Phonetic": "/ˌkɑːm.pləˈkeɪ.ʃən/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sự phức tạp"
+      }
+    },
+    {
+      "front": {
+        "Word": "courier",
+        "Phonetic": "/ˈkʊriər/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "người đưa thư"
+      }
+    },
+    {
+      "front": {
+        "Word": "distribute",
+        "Phonetic": "/dɪˈstrɪb.juːt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "phân phát"
+      }
+    },
+    {
+      "front": {
+        "Word": "express",
+        "Phonetic": "/ɪkˈspres/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "nhanh, hỏa tốc"
+      }
+    },
+    {
+      "front": {
+        "Word": "fold",
+        "Phonetic": "/foʊld/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "gấp lại"
+      }
+    },
+    {
+      "front": {
+        "Word": "layout",
+        "Phonetic": "/ˈleɪaʊt/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "cách trình bày, sự bố trí"
+      }
+    },
+    {
+      "front": {
+        "Word": "mention",
+        "Phonetic": "/ˈmenʃn/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "đề cập (v) sự đề cập (n)"
+      }
+    },
+    {
+      "front": {
+        "Word": "petition",
+        "Phonetic": "/pəˈtɪʃn/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "kiến nghị (v) đơn kiến nghị (n)"
+      }
+    },
+    {
+      "front": {
+        "Word": "proof",
+        "Phonetic": "/pruːf/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "bằng chứng (n) (= evidence) chứng minh (v)"
+      }
+    },
+    {
+      "front": {
+        "Word": "revise",
+        "Phonetic": "/rɪˈvaɪz/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "sửa lại, xem lại"
+      }
+    }
+  ],
+  "Job Advertising and Recruiting": [
+    {
+      "front": {
+        "Word": "abundant",
+        "Phonetic": "/əˈbʌndənt/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "nhiều, dư thừa"
+      }
+    },
+    {
+      "front": {
+        "Word": "accomplishment",
+        "Phonetic": "/əˈkɑːm.plɪʃ.mənt/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "thành tựu"
+      }
+    },
+    {
+      "front": {
+        "Word": "bring together",
+        "Phonetic": "/brɪŋ təˈɡeðə/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "gộp lại (= gather)"
+      }
+    },
+    {
+      "front": {
+        "Word": "candidate",
+        "Phonetic": "/ˈkændɪdət/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "ứng viên, thí sinh"
+      }
+    },
+    {
+      "front": {
+        "Word": "come up with",
+        "Phonetic": "/kʌm ʌp wɪθ/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "đưa ra, nghĩ ra"
+      }
+    },
+    {
+      "front": {
+        "Word": "commensurate with",
+        "Phonetic": "/kəˈmenʃərət /wɪð/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "tương xứng với"
+      }
+    },
+    {
+      "front": {
+        "Word": "match",
+        "Phonetic": "/mætʃ/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "hợp, xứng (v) sự tương xứng (n)"
+      }
+    },
+    {
+      "front": {
+        "Word": "profile",
+        "Phonetic": "/ˈproʊfaɪl/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "lý lịch"
+      }
+    },
+    {
+      "front": {
+        "Word": "qualification",
+        "Phonetic": "/kwɑː.lə.fəˈkeɪ.ʃən/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "năng lực, trình độ, tố chất"
+      }
+    },
+    {
+      "front": {
+        "Word": "recruit",
+        "Phonetic": "/rɪˈkruːt/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "tuyển dụng (v) nhân viên mới (n)"
+      }
+    },
+    {
+      "front": {
+        "Word": "submit",
+        "Phonetic": "/səbˈmɪt/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "nộp"
+      }
+    },
+    {
+      "front": {
+        "Word": "time-consuming",
+        "Phonetic": "/ˈtaɪmkənsuː.mɪŋ/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "tốn thời gian"
+      }
+    }
+  ],
+  "Applying and Interviewing": [
+    {
+      "front": {
+        "Word": "ability",
+        "Phonetic": "/əˈbɪləti/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "khả năng, năng lực"
+      }
+    },
+    {
+      "front": {
+        "Word": "apply for",
+        "Phonetic": "/əˈplaɪ foː/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "ứng tuyển vào"
+      }
+    },
+    {
+      "front": {
+        "Word": "background",
+        "Phonetic": "/ˈbækɡraʊnd/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "lý lịch, nền tảng"
+      }
+    },
+    {
+      "front": {
+        "Word": "be ready for",
+        "Phonetic": "/kɔːl ɪn/",
+        "Definition": "v) sẵn sàng cho 135 call in (v"
+      },
+      "back": {
+        "Meaning": "mời tới, gọi vào làm việc"
+      }
+    },
+    {
+      "front": {
+        "Word": "confidence",
+        "Phonetic": "/ˈkɑːnfɪdəns/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sự tự tin"
+      }
+    },
+    {
+      "front": {
+        "Word": "constantly",
+        "Phonetic": "/ˈkɑːn.stənt.li/",
+        "Definition": "adv"
+      },
+      "back": {
+        "Meaning": "liên tục, không ngừng"
+      }
+    },
+    {
+      "front": {
+        "Word": "expert",
+        "Phonetic": "/ˈekspɜːrt/",
+        "Definition": "n, adj"
+      },
+      "back": {
+        "Meaning": "chuyên gia, chuyên viên"
+      }
+    },
+    {
+      "front": {
+        "Word": "follow up",
+        "Phonetic": "/ˈfɑːloʊ ʌp/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "bám sát, tiếp tục việc gì đó"
+      }
+    },
+    {
+      "front": {
+        "Word": "hesitate(v) /ˈhezɪteɪt/ lưỡng lự, do dự 141 interview",
+        "Phonetic": "/ˈɪntərvjuː/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "buổi phỏng vấn (n) phỏng vấn (v)"
+      }
+    },
+    {
+      "front": {
+        "Word": "present",
+        "Phonetic": "/prɪˈzent/",
+        "Definition": "v, adj"
+      },
+      "back": {
+        "Meaning": "có mặt (adj) trình bày, nêu ra (v)"
+      }
+    }
+  ],
+  "Hiring and Training": [
+    {
+      "front": {
+        "Word": "conduct",
+        "Phonetic": "/kənˈdʌkt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "tiến hành, thực hiện"
+      }
+    },
+    {
+      "front": {
+        "Word": "generate",
+        "Phonetic": "/ˈdʒenəreɪt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "tạo ra, sản xuất ra"
+      }
+    },
+    {
+      "front": {
+        "Word": "hire",
+        "Phonetic": "/ˈhaɪər/",
+        "Definition": "v, n"
+      },
+      "back": {
+        "Meaning": "thuê, mướn (v) nhân viên, người làm thuê (n)"
+      }
+    },
+    {
+      "front": {
+        "Word": "keep up with",
+        "Phonetic": "/kiːp ʌp wɪθ/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "theo kịp"
+      }
+    },
+    {
+      "front": {
+        "Word": "look up to somebody",
+        "Phonetic": "/lʊk ʌp tuː/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "tôn trọng, ngưỡng mộ ai đó"
+      }
+    },
+    {
+      "front": {
+        "Word": "mentor",
+        "Phonetic": "/ˈmentɔːr/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "cố vấn"
+      }
+    },
+    {
+      "front": {
+        "Word": "on track",
+        "Phonetic": "/ɔːn træk/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "theo đúng kế hoạch"
+      }
+    },
+    {
+      "front": {
+        "Word": "reject",
+        "Phonetic": "/rɪˈdʒekt/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "đồ thừa, phế phẩm (n) từ chối (v)"
+      }
+    },
+    {
+      "front": {
+        "Word": "set up",
+        "Phonetic": "/set ʌp/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "thiết lập, sắp xếp"
+      }
+    },
+    {
+      "front": {
+        "Word": "success",
+        "Phonetic": "/səkˈses/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sự thành công"
+      }
+    },
+    {
+      "front": {
+        "Word": "train",
+        "Phonetic": "/treɪn/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "đào tạo, huấn luyện"
+      }
+    },
+    {
+      "front": {
+        "Word": "update",
+        "Phonetic": "/ˌʌpˈdeɪt/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "cập nhật (v) thông tin mới nhất (n)"
+      }
+    }
+  ],
+  "Salaries and Benefits": [
+    {
+      "front": {
+        "Word": "be aware of",
+        "Phonetic": "/biː əˈwer ɒv/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "biết được, nhận thức được"
+      }
+    },
+    {
+      "front": {
+        "Word": "basis",
+        "Phonetic": "/ˈbeɪsɪs/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "cơ sở, căn cứ"
+      }
+    },
+    {
+      "front": {
+        "Word": "benefit",
+        "Phonetic": "/ˈbenɪfɪt/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "lợi ích, phúc lợi"
+      }
+    },
+    {
+      "front": {
+        "Word": "compensate",
+        "Phonetic": "/ˈkɑːmpenseɪt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "đền bù, bồi thường (= make up for)"
+      }
+    },
+    {
+      "front": {
+        "Word": "delicate",
+        "Phonetic": "/ˈdel.ə.kət/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "tế nhị, khôn khéo tinh vi, tinh xảo"
+      }
+    },
+    {
+      "front": {
+        "Word": "eligible",
+        "Phonetic": "/ˈelɪdʒəbl/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "đủ tiêu chuẩn (= qualified)"
+      }
+    },
+    {
+      "front": {
+        "Word": "flexibly",
+        "Phonetic": "/ˈflek.sə.bli/",
+        "Definition": "adv"
+      },
+      "back": {
+        "Meaning": "một cách linh hoạt"
+      }
+    },
+    {
+      "front": {
+        "Word": "negotiate",
+        "Phonetic": "/nɪˈɡoʊʃieɪt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "đàm phán, thương lượng"
+      }
+    },
+    {
+      "front": {
+        "Word": "retire",
+        "Phonetic": "/rɪˈtaɪər/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "nghỉ hưu"
+      }
+    },
+    {
+      "front": {
+        "Word": "vest in",
+        "Phonetic": "/vest ɪn/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "trao quyền cho ai"
+      }
+    },
+    {
+      "front": {
+        "Word": "wage",
+        "Phonetic": "/weɪdʒ/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "lương theo giờ"
+      }
+    },
+    {
+      "front": {
+        "Word": "raise",
+        "Phonetic": "/reɪz/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "tăng lên (v) sự tăng trưởng (n)"
+      }
+    }
+  ],
+  "Promotions, Pensions and Awards": [
+    {
+      "front": {
+        "Word": "achievement",
+        "Phonetic": "/əˈtʃiːv.mənt/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "thành tựu (= accomplishment)"
+      }
+    },
+    {
+      "front": {
+        "Word": "contribute",
+        "Phonetic": "/kənˈtrɪbjuːt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "đóng góp"
+      }
+    },
+    {
+      "front": {
+        "Word": "dedicate to",
+        "Phonetic": "/ˈdedɪkeɪt tuː/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "cống hiến cho"
+      }
+    },
+    {
+      "front": {
+        "Word": "looking forward to V-ing",
+        "Phonetic": "/lʊk ˈfɔːrwərd tuː/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "trông mong, mong đợi"
+      }
+    },
+    {
+      "front": {
+        "Word": "look to somebody",
+        "Phonetic": "/lʊk tuː/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "trông cậy vào ai"
+      }
+    },
+    {
+      "front": {
+        "Word": "loyal",
+        "Phonetic": "/ˈlɔɪ.əl/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "trung thành"
+      }
+    },
+    {
+      "front": {
+        "Word": "merit",
+        "Phonetic": "/ˈmerɪt/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "xứng đáng, có công (v) công lao (n)"
+      }
+    },
+    {
+      "front": {
+        "Word": "obviously",
+        "Phonetic": "/ˈɑːb.vi.əs.li/",
+        "Definition": "adv"
+      },
+      "back": {
+        "Meaning": "rõ ràng, hiển nhiên"
+      }
+    },
+    {
+      "front": {
+        "Word": "productive",
+        "Phonetic": "/prəˈdʌk.tɪv/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "có hiệu quả, có năng suất"
+      }
+    },
+    {
+      "front": {
+        "Word": "promote",
+        "Phonetic": "/prəˈməʊt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "đẩy mạnh thăng chức"
+      }
+    },
+    {
+      "front": {
+        "Word": "recognition",
+        "Phonetic": "/ˌrek.əɡˈnɪʃ.ən/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sự công nhận"
+      }
+    },
+    {
+      "front": {
+        "Word": "value",
+        "Phonetic": "/ˈvæljuː/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "định giá (v) giá trị (n)"
+      }
+    }
+  ],
+  "Shopping": [
+    {
+      "front": {
+        "Word": "bargain",
+        "Phonetic": "/ˈbɑːrɡən/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "món hời (n) mặc cả (v)"
+      }
+    },
+    {
+      "front": {
+        "Word": "bear",
+        "Phonetic": "/ber/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "chịu đựng, cam chịu"
+      }
+    },
+    {
+      "front": {
+        "Word": "behavior",
+        "Phonetic": "/bɪˈheɪ.vjər/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "thái độ, hành vi"
+      }
+    },
+    {
+      "front": {
+        "Word": "checkout",
+        "Phonetic": "/tʃek aʊt əv/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "quầy thanh toán, thủ tục thanh toán"
+      }
+    },
+    {
+      "front": {
+        "Word": "comfort",
+        "Phonetic": "/ˈkʌmfərt/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "sự thoải mái (n) an ủi (v)"
+      }
+    },
+    {
+      "front": {
+        "Word": "expand",
+        "Phonetic": "/ɪkˈspænd mở rộng 186 explore (v) /ɪkˈsplɔːr/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "khám phá, thăm dò"
+      }
+    },
+    {
+      "front": {
+        "Word": "item",
+        "Phonetic": "/ˈaɪtəm/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "món hàng, món đồ"
+      }
+    },
+    {
+      "front": {
+        "Word": "mandatory",
+        "Phonetic": "/ˈmændətɔːri/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "bắt buộc"
+      }
+    },
+    {
+      "front": {
+        "Word": "merchandise",
+        "Phonetic": "/ˈmɜːrtʃəndaɪz/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "buôn bán (v) hàng hóa (n) (= goods)"
+      }
+    },
+    {
+      "front": {
+        "Word": "strictly",
+        "Phonetic": "/ˈstrɪkt.li/",
+        "Definition": "adv"
+      },
+      "back": {
+        "Meaning": "một cách nghiêm khắc"
+      }
+    }
+  ],
+  "Ordering Supplies": [
+    {
+      "front": {
+        "Word": "diversify",
+        "Phonetic": "/daɪˈvɜːrsɪfaɪ/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "đa dạng hóa"
+      }
+    },
+    {
+      "front": {
+        "Word": "consistent",
+        "Phonetic": "/kənˈsɪstənt/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "đều đặn, nhất quán"
+      }
+    },
+    {
+      "front": {
+        "Word": "enterprise",
+        "Phonetic": "/ˈentərpraɪz/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "dự án lớn doanh nghiệp"
+      }
+    },
+    {
+      "front": {
+        "Word": "essentially",
+        "Phonetic": "/ɪˈsen.ʃəl.i/",
+        "Definition": "adv"
+      },
+      "back": {
+        "Meaning": "một cách thiết yếu, về cơ bản"
+      }
+    },
+    {
+      "front": {
+        "Word": "function",
+        "Phonetic": "/ˈfʌŋkʃn/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "có vai trò (v) nhiệm vụ, chức năng (n)"
+      }
+    },
+    {
+      "front": {
+        "Word": "maintain",
+        "Phonetic": "/meɪnˈteɪn/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "duy trì"
+      }
+    },
+    {
+      "front": {
+        "Word": "obtain",
+        "Phonetic": "/əbˈteɪn/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "đạt được, giành được"
+      }
+    },
+    {
+      "front": {
+        "Word": "prerequisite",
+        "Phonetic": "/ˌpriːˈrekwəzɪt/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "điều kiện tiên quyết"
+      }
+    },
+    {
+      "front": {
+        "Word": "quality",
+        "Phonetic": "/ˈkwɑːləti/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "chất lượng (sản phẩm) phẩm chất (người)"
+      }
+    },
+    {
+      "front": {
+        "Word": "source",
+        "Phonetic": "/sɔːrs/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "nguồn"
+      }
+    },
+    {
+      "front": {
+        "Word": "stationery",
+        "Phonetic": "/ˈsteɪʃəneri/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "văn phòng phẩm"
+      }
+    },
+    {
+      "front": {
+        "Word": "smooth",
+        "Phonetic": "/smuːð/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "suôn sẻ, trơn tru"
+      }
+    }
+  ],
+  "Shipping": [
+    {
+      "front": {
+        "Word": "carrier /ˈkæriər/ người vận chuyển, bên vận chuyển 205 inventory",
+        "Phonetic": "/ˈɪnvəntɔːri/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "bản kiểm kê hàng hóa hàng tồn"
+      }
+    },
+    {
+      "front": {
+        "Word": "accurately",
+        "Phonetic": "/ˈæk.jɚ.ət.li/",
+        "Definition": "adv"
+      },
+      "back": {
+        "Meaning": "một cách chính xác"
+      }
+    },
+    {
+      "front": {
+        "Word": "catalogue",
+        "Phonetic": "/ˈkætəlɔːɡ/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "bản liệt kê, danh mục sản phẩm"
+      }
+    },
+    {
+      "front": {
+        "Word": "fulfill",
+        "Phonetic": "/fʊlˈfɪl/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "hoàn thành"
+      }
+    },
+    {
+      "front": {
+        "Word": "integral",
+        "Phonetic": "/ˈɪn.t̬ə.ɡrəl/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "không thể thiếu"
+      }
+    },
+    {
+      "front": {
+        "Word": "minimize",
+        "Phonetic": "/ˈmɪnɪmaɪz/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "giảm thiểu"
+      }
+    },
+    {
+      "front": {
+        "Word": "on hand",
+        "Phonetic": "/ɒn hænd/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "có sẵn (= available)"
+      }
+    },
+    {
+      "front": {
+        "Word": "ship",
+        "Phonetic": "/ʃɪp/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "vận chuyển"
+      }
+    },
+    {
+      "front": {
+        "Word": "sufficiently",
+        "Phonetic": "/səˈfɪʃ.ənt.li/",
+        "Definition": "adv"
+      },
+      "back": {
+        "Meaning": "đủ"
+      }
+    },
+    {
+      "front": {
+        "Word": "supply",
+        "Phonetic": "/səˈplaɪ/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "nguồn cung, sự cung cấp (n) cung cấp (v)"
+      }
+    },
+    {
+      "front": {
+        "Word": "receive",
+        "Phonetic": "/rɪˈsiːv/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "nhận"
+      }
+    }
+  ],
+  "Invoices": [
+    {
+      "front": {
+        "Word": "charge",
+        "Phonetic": "/tʃɑːrdʒ/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "tiền phí (n) tính phí (v)"
+      }
+    },
+    {
+      "front": {
+        "Word": "compile",
+        "Phonetic": "/kəmˈpaɪl/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "biên soạn, soạn"
+      }
+    },
+    {
+      "front": {
+        "Word": "customer",
+        "Phonetic": "/ˈkʌstəmər/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "khách mua hàng"
+      }
+    },
+    {
+      "front": {
+        "Word": "discount",
+        "Phonetic": "/dɪsˈkaʊnt/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "sự giảm giá (n) giảm giá (v)"
+      }
+    },
+    {
+      "front": {
+        "Word": "dispute",
+        "Phonetic": "/dɪˈspjuːt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "tranh cãi"
+      }
+    },
+    {
+      "front": {
+        "Word": "efficient",
+        "Phonetic": "/ɪˈfɪʃ.ənt/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "hiệu quả (= effective)"
+      }
+    },
+    {
+      "front": {
+        "Word": "estimate",
+        "Phonetic": "/ˈestɪmeɪt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "ước tính"
+      }
+    },
+    {
+      "front": {
+        "Word": "impose",
+        "Phonetic": "/ɪmˈpəʊz/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "áp đặt, ép buộc"
+      }
+    },
+    {
+      "front": {
+        "Word": "mistake",
+        "Phonetic": "/mɪˈsteɪk/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "lỗi, nhầm lẫn"
+      }
+    },
+    {
+      "front": {
+        "Word": "prompt",
+        "Phonetic": "/ˈprɑːmpt/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "nhanh, đúng giờ (= punctual)"
+      }
+    },
+    {
+      "front": {
+        "Word": "rectify",
+        "Phonetic": "/ˈrektɪfaɪ/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "sửa chữa, sửa lỗi"
+      }
+    },
+    {
+      "front": {
+        "Word": "terms",
+        "Phonetic": "/tɜːrmz/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "điều khoản (hợp đồng)"
+      }
+    }
+  ],
+  "Inventory": [
+    {
+      "front": {
+        "Word": "adjustment",
+        "Phonetic": "/əˈdʒʌst.mənt/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sự điều chỉnh"
+      }
+    },
+    {
+      "front": {
+        "Word": "automatic",
+        "Phonetic": "/ˌɑː.t̬əˈmæt̬.ɪk/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "tự động"
+      }
+    },
+    {
+      "front": {
+        "Word": "crucial",
+        "Phonetic": "/ˈkruːʃl cốt yếu, quan trọng 231 discrepancy (n) /dɪsˈkrepənsi/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "sự khác nhau, không nhất quán"
+      }
+    },
+    {
+      "front": {
+        "Word": "disturb",
+        "Phonetic": "/dɪˈstɜːrb/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "làm phiền, quấy rầy"
+      }
+    },
+    {
+      "front": {
+        "Word": "reflection",
+        "Phonetic": "/rɪˈflek.ʃən/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sự phản chiếu"
+      }
+    },
+    {
+      "front": {
+        "Word": "run",
+        "Phonetic": "/rʌn/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "điều hành, vận hành"
+      }
+    },
+    {
+      "front": {
+        "Word": "scan",
+        "Phonetic": "/skæn/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "đọc lướt, xem lướt"
+      }
+    },
+    {
+      "front": {
+        "Word": "subtract",
+        "Phonetic": "/səbˈtrækt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "trừ đi"
+      }
+    },
+    {
+      "front": {
+        "Word": "tedium",
+        "Phonetic": "/ˈtiːdiəm/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sự buồn tẻ, sự nhạt nhẽo"
+      }
+    },
+    {
+      "front": {
+        "Word": "verify",
+        "Phonetic": "/ˈverɪfaɪ/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "xác minh, kiểm chứng"
+      }
+    },
+    {
+      "front": {
+        "Word": "install",
+        "Phonetic": "/ɪnˈstɔːl/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "lắp đặt, cài đặt"
+      }
+    }
+  ],
+  "Banking": [
+    {
+      "front": {
+        "Word": "accept",
+        "Phonetic": "/əkˈsept/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "nhận, chấp nhận"
+      }
+    },
+    {
+      "front": {
+        "Word": "balance",
+        "Phonetic": "/ˈbæləns/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sự cân bằng số dư tài khoản"
+      }
+    },
+    {
+      "front": {
+        "Word": "borrow",
+        "Phonetic": "/ˈbɑːroʊ/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "vay, mượn"
+      }
+    },
+    {
+      "front": {
+        "Word": "cautiously",
+        "Phonetic": "/ˈkɑː.ʃəs.li/",
+        "Definition": "adv"
+      },
+      "back": {
+        "Meaning": "một cách cẩn thận"
+      }
+    },
+    {
+      "front": {
+        "Word": "deduct",
+        "Phonetic": "/dɪˈdʌkt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "khấu trừ"
+      }
+    },
+    {
+      "front": {
+        "Word": "dividend",
+        "Phonetic": "/ˈdɪvɪdend/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "cổ tức, tiền lãi cổ phần"
+      }
+    },
+    {
+      "front": {
+        "Word": "down payment",
+        "Phonetic": "/daʊn ˈpeɪmənt/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "tiền cọc, tiền trả trước"
+      }
+    },
+    {
+      "front": {
+        "Word": "mortgage",
+        "Phonetic": "/ˈmɔːrɡɪdʒ/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "sự cầm cố, sự thế chấp (n) cầm cố, thế chấp (v)"
+      }
+    },
+    {
+      "front": {
+        "Word": "restricted",
+        "Phonetic": "/rəˈstriktəd/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "bị hạn chế (= limited)"
+      }
+    },
+    {
+      "front": {
+        "Word": "signature",
+        "Phonetic": "/ˈsɪɡ.nə.tʃɚ/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "chữ ký"
+      }
+    },
+    {
+      "front": {
+        "Word": "take out",
+        "Phonetic": "/teɪk aʊt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "rút tiền"
+      }
+    },
+    {
+      "front": {
+        "Word": "transaction",
+        "Phonetic": "/trænˈzæk.ʃən/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "giao dịch"
+      }
+    }
+  ],
+  "Accounting": [
+    {
+      "front": {
+        "Word": "accounting",
+        "Phonetic": "/əˈkaʊntɪŋ/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "công việc kế toán"
+      }
+    },
+    {
+      "front": {
+        "Word": "accumulate",
+        "Phonetic": "/əˈkjuːmjəleɪt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "tích lũy, gom góp"
+      }
+    },
+    {
+      "front": {
+        "Word": "asset",
+        "Phonetic": "/ˈæset/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "tài sản"
+      }
+    },
+    {
+      "front": {
+        "Word": "audit",
+        "Phonetic": "/ˈɔːdɪt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "kiểm toán"
+      }
+    },
+    {
+      "front": {
+        "Word": "budget",
+        "Phonetic": "/ˈbʌdʒɪt/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "lên ngân sách (v) ngân sách (n)"
+      }
+    },
+    {
+      "front": {
+        "Word": "build up",
+        "Phonetic": "/bɪld ʌp/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "tăng cường, phát triển dần"
+      }
+    },
+    {
+      "front": {
+        "Word": "client",
+        "Phonetic": "/ˈklaɪənt/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "khách hàng"
+      }
+    },
+    {
+      "front": {
+        "Word": "debt",
+        "Phonetic": "/det/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "món nợ, khoản nợ"
+      }
+    },
+    {
+      "front": {
+        "Word": "outstanding",
+        "Phonetic": "/aʊtˈstændɪŋ/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "chưa giải quyết, chưa thanh toán"
+      }
+    },
+    {
+      "front": {
+        "Word": "profitable",
+        "Phonetic": "/ˈprɑː.fɪ.t̬ə.bəl/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "có lời"
+      }
+    },
+    {
+      "front": {
+        "Word": "reconcile",
+        "Phonetic": "/ˈrekənsaɪl/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "hòa giải"
+      }
+    },
+    {
+      "front": {
+        "Word": "turnover",
+        "Phonetic": "/ˈtɜːrnoʊvər/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "doanh thu, doanh số"
+      }
+    }
+  ],
+  "Investments": [
+    {
+      "front": {
+        "Word": "aggressive",
+        "Phonetic": "/əˈɡresɪv/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "hùng hổ, xông xáo"
+      }
+    },
+    {
+      "front": {
+        "Word": "attitude",
+        "Phonetic": "/ˈætɪtuːd/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "thái độ"
+      }
+    },
+    {
+      "front": {
+        "Word": "commit",
+        "Phonetic": "/kəˈmɪt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "cam kết"
+      }
+    },
+    {
+      "front": {
+        "Word": "conservative",
+        "Phonetic": "/kənˈsɝː.və.t̬ɪv/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "thận trọng bảo thủ"
+      }
+    },
+    {
+      "front": {
+        "Word": "fund",
+        "Phonetic": "/fʌnd/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "tài trợ (v) quỹ (n)"
+      }
+    },
+    {
+      "front": {
+        "Word": "invest /ɪnˈvest/ đầu tư 270 long-term",
+        "Phonetic": "/ˌlɔːŋ ˈtɜːrm/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "dài hạn"
+      }
+    },
+    {
+      "front": {
+        "Word": "portfolio",
+        "Phonetic": "/pɔːrtˈfoʊlioʊ/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "danh mục đầu tư"
+      }
+    },
+    {
+      "front": {
+        "Word": "pull out",
+        "Phonetic": "/pʊl aʊt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "rút (đầu tư)"
+      }
+    },
+    {
+      "front": {
+        "Word": "resource",
+        "Phonetic": "/ˈriːsɔːrs/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "nguồn tài nguyên, nguồn vốn"
+      }
+    },
+    {
+      "front": {
+        "Word": "return",
+        "Phonetic": "/rɪˈtɜːrn/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "lợi nhuận"
+      }
+    },
+    {
+      "front": {
+        "Word": "wisely",
+        "Phonetic": "/ˈwaɪz.li/",
+        "Definition": "adv"
+      },
+      "back": {
+        "Meaning": "một khách khôn ngoan"
+      }
+    }
+  ],
+  "Financial Statements": [
+    {
+      "front": {
+        "Word": "desire",
+        "Phonetic": "/dɪˈzaɪər/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "khao khát (v) sự khao khát (n)"
+      }
+    },
+    {
+      "front": {
+        "Word": "detail",
+        "Phonetic": "/ˈdiːteɪl/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "chi tiết, tỉ mỉ"
+      }
+    },
+    {
+      "front": {
+        "Word": "forecast",
+        "Phonetic": "/ˈfɔːrkæst/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "dự báo (v) sự dự đoán (n)"
+      }
+    },
+    {
+      "front": {
+        "Word": "level",
+        "Phonetic": "/ˈlevl/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "cấp bậc, mức"
+      }
+    },
+    {
+      "front": {
+        "Word": "overall",
+        "Phonetic": "/ˌoʊvərˈɔːl/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "toàn bộ, chung, tổng quát"
+      }
+    },
+    {
+      "front": {
+        "Word": "perspective",
+        "Phonetic": "/pərˈspektɪv/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "viễn cảnh, cách nhìn nhận"
+      }
+    },
+    {
+      "front": {
+        "Word": "project",
+        "Phonetic": "/prəˈdʒekt/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "dự án (n) ước đoán (v)"
+      }
+    },
+    {
+      "front": {
+        "Word": "realistic",
+        "Phonetic": "/ˌriː.əˈlɪs.tɪk/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "thực tế"
+      }
+    },
+    {
+      "front": {
+        "Word": "target",
+        "Phonetic": "/ˈtɑːrɡɪt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "nhắm vào"
+      }
+    },
+    {
+      "front": {
+        "Word": "translation",
+        "Phonetic": "/trænzˈleɪ.ʃən/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "bản dịch thuật, sự phiên dịch (về ngôn ngữ)"
+      }
+    },
+    {
+      "front": {
+        "Word": "typically",
+        "Phonetic": "/ˈtɪp.ɪ.kəl.i/",
+        "Definition": "adv"
+      },
+      "back": {
+        "Meaning": "tiêu biểu, điển hình"
+      }
+    },
+    {
+      "front": {
+        "Word": "yield",
+        "Phonetic": "/jiːld/",
+        "Definition": "v, n"
+      },
+      "back": {
+        "Meaning": "sản lượng (n) sản xuất, cung cấp (v)"
+      }
+    }
+  ],
+  "Taxes": [
+    {
+      "front": {
+        "Word": "calculation",
+        "Phonetic": "/ˌkæl.kjəˈleɪ.ʃən/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sự tính toán, sự dự trù"
+      }
+    },
+    {
+      "front": {
+        "Word": "deadline",
+        "Phonetic": "/ˈdedlaɪn/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "hạn chót"
+      }
+    },
+    {
+      "front": {
+        "Word": "file",
+        "Phonetic": "/faɪl/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "đệ trình, nộp sắp xếp (giấy tờ)"
+      }
+    },
+    {
+      "front": {
+        "Word": "fill out",
+        "Phonetic": "/fɪl aʊt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "điền vào (giấy tờ)"
+      }
+    },
+    {
+      "front": {
+        "Word": "give up",
+        "Phonetic": "/ɡɪv ʌp/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "từ bỏ"
+      }
+    },
+    {
+      "front": {
+        "Word": "joint",
+        "Phonetic": "/dʒɔɪnt/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "chung, cùng"
+      }
+    },
+    {
+      "front": {
+        "Word": "own",
+        "Phonetic": "/oʊ/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "mắc nợ, mang ơn"
+      }
+    },
+    {
+      "front": {
+        "Word": "penalty",
+        "Phonetic": "/ˈpen.əl.ti/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "khoản tiền phạt, hình phạt"
+      }
+    },
+    {
+      "front": {
+        "Word": "preparation",
+        "Phonetic": "/ˌprep.əˈreɪ.ʃən/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sự chuẩn bị"
+      }
+    },
+    {
+      "front": {
+        "Word": "refund",
+        "Phonetic": "/rɪˈfʌnd/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "sự hoàn lại (n) hoàn lại (v)"
+      }
+    },
+    {
+      "front": {
+        "Word": "spouse",
+        "Phonetic": "/spaʊs/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "vợ/ chồng"
+      }
+    },
+    {
+      "front": {
+        "Word": "withhold",
+        "Phonetic": "/wɪðˈhoʊld/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "giữ lại"
+      }
+    }
+  ],
+  "Property and Departments": [
+    {
+      "front": {
+        "Word": "adjacent",
+        "Phonetic": "/əˈdʒeɪsnt/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "liền kề, kế bên"
+      }
+    },
+    {
+      "front": {
+        "Word": "collaboration",
+        "Phonetic": "/kəˌlæb.əˈreɪ.ʃən/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sự cộng tác"
+      }
+    },
+    {
+      "front": {
+        "Word": "concentrate on",
+        "Phonetic": "/ˈkɑːnsntreɪt ɑːn/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "tập trung vào (= focus on)"
+      }
+    },
+    {
+      "front": {
+        "Word": "conductive",
+        "Phonetic": "/kənˈduːsɪv/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "có lợi"
+      }
+    },
+    {
+      "front": {
+        "Word": "disruption",
+        "Phonetic": "/dɪsˈrʌp.ʃən/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sự phá vỡ, sự hỗn loạn"
+      }
+    },
+    {
+      "front": {
+        "Word": "hamper",
+        "Phonetic": "/ˈhæmpər/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "gây cản trở"
+      }
+    },
+    {
+      "front": {
+        "Word": "inconsiderate(adj) /ˌɪnkənˈsɪdərət/ sơ suất, thiếu thận trọng 307 lobby",
+        "Phonetic": "/ˈlɑːbi/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "hành lang, tiền sảnh"
+      }
+    },
+    {
+      "front": {
+        "Word": "move up /muːv ʌp/ thăng tiến, tiến lên 309 open to",
+        "Phonetic": "/əʊpən tu/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "sẵn sàng đón nhận điều gì"
+      }
+    },
+    {
+      "front": {
+        "Word": "scrutiny",
+        "Phonetic": "/ˈskruː.t̬ən.i/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sự nghiên cứu kỹ lưỡng"
+      }
+    },
+    {
+      "front": {
+        "Word": "opt",
+        "Phonetic": "/ɑːpt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "chọn lựa"
+      }
+    }
+  ],
+  "Board meetings and Committees": [
+    {
+      "front": {
+        "Word": "adhear to",
+        "Phonetic": "/ədˈhɪr/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "tuân thủ"
+      }
+    },
+    {
+      "front": {
+        "Word": "agenda",
+        "Phonetic": "/əˈdʒendə/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "chương trình hội nghị"
+      }
+    },
+    {
+      "front": {
+        "Word": "bring up",
+        "Phonetic": "/brɪŋ ʌp/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "nêu ra, đề cập tới"
+      }
+    },
+    {
+      "front": {
+        "Word": "conclude",
+        "Phonetic": "/kənˈkluːd/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "kết thúc, kết luận"
+      }
+    },
+    {
+      "front": {
+        "Word": "go ahead",
+        "Phonetic": "/ɡoʊ əˈhed/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "tiếp tục"
+      }
+    },
+    {
+      "front": {
+        "Word": "goal",
+        "Phonetic": "/ɡoʊl/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "mục tiêu"
+      }
+    },
+    {
+      "front": {
+        "Word": "lengthy",
+        "Phonetic": "/ˈleŋθi/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "dài, lâu"
+      }
+    },
+    {
+      "front": {
+        "Word": "matter",
+        "Phonetic": "/ˈmætər/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "vấn đề"
+      }
+    },
+    {
+      "front": {
+        "Word": "periodically",
+        "Phonetic": "/ˌpɪriˈɑdɪkli/",
+        "Definition": "adv"
+      },
+      "back": {
+        "Meaning": "định kỳ"
+      }
+    },
+    {
+      "front": {
+        "Word": "priority",
+        "Phonetic": "/praɪˈɔrət̮i/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "quyền ưu tiên, sự ưu tiên"
+      }
+    },
+    {
+      "front": {
+        "Word": "progress",
+        "Phonetic": "/prəˈɡres/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "phát triển, tiến bộ (v) sự phát triển, sự tiến bộ (n)"
+      }
+    },
+    {
+      "front": {
+        "Word": "waste",
+        "Phonetic": "/weɪst/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "lãng phí (v) sự lãng phí (n)"
+      }
+    }
+  ],
+  "Product Development": [
+    {
+      "front": {
+        "Word": "anxious",
+        "Phonetic": "/ˈæŋkʃəs/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "lo lắng"
+      }
+    },
+    {
+      "front": {
+        "Word": "ascertain",
+        "Phonetic": "/ˌæsərˈteɪn/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "xác định, chắc chắn"
+      }
+    },
+    {
+      "front": {
+        "Word": "assume",
+        "Phonetic": "/əˈsuːm/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "đảm đương, gánh vác"
+      }
+    },
+    {
+      "front": {
+        "Word": "decade",
+        "Phonetic": "/ˈdekeɪd/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "thập kỷ"
+      }
+    },
+    {
+      "front": {
+        "Word": "examine",
+        "Phonetic": "/ɪɡˈzæmɪn/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "khảo sát"
+      }
+    },
+    {
+      "front": {
+        "Word": "experiment",
+        "Phonetic": "/ɪkˈsperɪmənt/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "làm thí nghiệm (v) cuộc thử nghiệm (n)"
+      }
+    },
+    {
+      "front": {
+        "Word": "logical",
+        "Phonetic": "/ˈlɑːdʒɪkl/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "hợp lý"
+      }
+    },
+    {
+      "front": {
+        "Word": "research",
+        "Phonetic": "/rɪˈsɜːrtʃ/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "nghiên cứu (v)việc nghiên cứu (n)"
+      }
+    },
+    {
+      "front": {
+        "Word": "responsibility",
+        "Phonetic": "/rɪˌspɑːnsəˈbɪləti/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "trách nhiệm, bổn phận"
+      }
+    },
+    {
+      "front": {
+        "Word": "solve",
+        "Phonetic": "/sɑːlv/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "giải quyết"
+      }
+    },
+    {
+      "front": {
+        "Word": "supervisor",
+        "Phonetic": "/ˈsupərˌvaɪzər/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "người giám sát"
+      }
+    },
+    {
+      "front": {
+        "Word": "systematic",
+        "Phonetic": "/ˌsɪstəˈmætɪk/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "có hệ thống"
+      }
+    }
+  ],
+  "Quality Control": [
+    {
+      "front": {
+        "Word": "brand",
+        "Phonetic": "/brænd/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "thương hiệu, nhãn hàng"
+      }
+    },
+    {
+      "front": {
+        "Word": "conform to",
+        "Phonetic": "/kənˈfɔːrm tu/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "phù hợp với"
+      }
+    },
+    {
+      "front": {
+        "Word": "defect",
+        "Phonetic": "/ˈdiːfekt/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "nhược điểm"
+      }
+    },
+    {
+      "front": {
+        "Word": "enhance",
+        "Phonetic": "/ɪnˈhæns/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "nâng cao"
+      }
+    },
+    {
+      "front": {
+        "Word": "garment",
+        "Phonetic": "/ˈɡɑːrmənt/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "quần áo"
+      }
+    },
+    {
+      "front": {
+        "Word": "inspect",
+        "Phonetic": "/ɪnˈspekt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "kiểm tra, xem xét"
+      }
+    },
+    {
+      "front": {
+        "Word": "perceptive",
+        "Phonetic": "/pərˈsɛptɪv/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "tinh tường, sâu sắc"
+      }
+    },
+    {
+      "front": {
+        "Word": "repel",
+        "Phonetic": "/rɪˈpel/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "đẩy lùi (khách hàng)"
+      }
+    },
+    {
+      "front": {
+        "Word": "take back",
+        "Phonetic": "/teɪk bæk/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "trả lại, lấy lại"
+      }
+    },
+    {
+      "front": {
+        "Word": "throw out",
+        "Phonetic": "/θrəʊ aʊt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "loại bỏ"
+      }
+    },
+    {
+      "front": {
+        "Word": "uniformly",
+        "Phonetic": "/ˈyunəˌfɔrm/",
+        "Definition": "adv"
+      },
+      "back": {
+        "Meaning": "giống nhau, đồng bộ"
+      }
+    },
+    {
+      "front": {
+        "Word": "wrinkle",
+        "Phonetic": "/ˈrɪŋkl/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "nếp nhăn"
+      }
+    }
+  ],
+  "Renting and Leasing": [
+    {
+      "front": {
+        "Word": "apprehensive",
+        "Phonetic": "/ˌæprɪˈhensɪv/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "e ngại"
+      }
+    },
+    {
+      "front": {
+        "Word": "circumstance",
+        "Phonetic": "/ˈsɜːrkəmstæns/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "hoàn cảnh, tình huống"
+      }
+    },
+    {
+      "front": {
+        "Word": "condition",
+        "Phonetic": "/kənˈdɪʃn/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "điều kiện, tình trạng"
+      }
+    },
+    {
+      "front": {
+        "Word": "due to",
+        "Phonetic": "/duː tu/",
+        "Definition": "pre"
+      },
+      "back": {
+        "Meaning": "bởi vì, nhờ có"
+      }
+    },
+    {
+      "front": {
+        "Word": "fluctuate",
+        "Phonetic": "/ˈflʌktʃueɪt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "dao động, thay đổi thất thường"
+      }
+    },
+    {
+      "front": {
+        "Word": "get out of",
+        "Phonetic": "/ɡet aʊt əv/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "ra khỏi, thoát khỏi"
+      }
+    },
+    {
+      "front": {
+        "Word": "indicator",
+        "Phonetic": "/ˈɪndəˌkeɪt̮ər/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "dấu hiệu"
+      }
+    },
+    {
+      "front": {
+        "Word": "lease",
+        "Phonetic": "/liːs/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "hợp đồng cho thuê (n) cho thuê (v)"
+      }
+    },
+    {
+      "front": {
+        "Word": "lock into",
+        "Phonetic": "/lɑːk ˈɪntu/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "ràng buộc"
+      }
+    },
+    {
+      "front": {
+        "Word": "occupy",
+        "Phonetic": "/ˈɑːkjupaɪ/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "chiếm hữu"
+      }
+    },
+    {
+      "front": {
+        "Word": "tenant",
+        "Phonetic": "/ˈtenənt/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "người thuê"
+      }
+    },
+    {
+      "front": {
+        "Word": "subject to",
+        "Phonetic": "/ˈsʌbdʒɪkt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "tuân thủ, lệ thuộc vào Sau khi tìm hiểu các phần trên, hẳn bạn đang cảm thấy hơi “ngột ngạt” khi liên tiếp học về những vấn đề trong doanh nghiệp phải không? Vậy hãy cùng FLYER “đổi gió” với những chủ đề khác “dễ thở” hơn, trước tiên là một vài chủ đề liên quan đến ăn uống nhé!"
+      }
+    }
+  ],
+  "Selecting A Restaurant": [
+    {
+      "front": {
+        "Word": "appeal",
+        "Phonetic": "/əˈpiːl/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sức cuốn hút"
+      }
+    },
+    {
+      "front": {
+        "Word": "arrive",
+        "Phonetic": "/əˈraɪv/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "đến"
+      }
+    },
+    {
+      "front": {
+        "Word": "compromise",
+        "Phonetic": "/ˈkɑːmprəmaɪz/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "thỏa hiệp (v) sự thỏa hiệp (n)"
+      }
+    },
+    {
+      "front": {
+        "Word": "daring",
+        "Phonetic": "/ˈdɛrɪŋ/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "cả gan, táo bạo"
+      }
+    },
+    {
+      "front": {
+        "Word": "familiar with",
+        "Phonetic": "/fəˈmɪliər wɪθ/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "/ quen thuộc với"
+      }
+    },
+    {
+      "front": {
+        "Word": "guide",
+        "Phonetic": "/ɡaɪd/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "hướng dẫn viên hướng dẫn, chỉ đường"
+      }
+    },
+    {
+      "front": {
+        "Word": "majority",
+        "Phonetic": "/məˈdʒɔːrəti/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "đa số"
+      }
+    },
+    {
+      "front": {
+        "Word": "mix",
+        "Phonetic": "/mɪks/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "trộn, pha lẫn"
+      }
+    },
+    {
+      "front": {
+        "Word": "rely on",
+        "Phonetic": "/rɪˈlaɪ ɔːn/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "dựa vào"
+      }
+    },
+    {
+      "front": {
+        "Word": "secure",
+        "Phonetic": "/sɪˈkjʊr/",
+        "Definition": "v, adj"
+      },
+      "back": {
+        "Meaning": "bảo vệ (v) an toàn, bảo đảm (adj)"
+      }
+    },
+    {
+      "front": {
+        "Word": "subjective",
+        "Phonetic": "/səbˈdʒektɪv/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "mang tính chủ quan"
+      }
+    }
+  ],
+  "Eating out": [
+    {
+      "front": {
+        "Word": "appetite",
+        "Phonetic": "/ˈæpɪtaɪt/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sự thèm ăn"
+      }
+    },
+    {
+      "front": {
+        "Word": "complete",
+        "Phonetic": "/kəmˈpliːt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "hoàn thành"
+      }
+    },
+    {
+      "front": {
+        "Word": "excite",
+        "Phonetic": "/ɪkˈsaɪt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "kích thích"
+      }
+    },
+    {
+      "front": {
+        "Word": "flavor",
+        "Phonetic": "/ˈfleɪvər/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "hương vị, mùi vị"
+      }
+    },
+    {
+      "front": {
+        "Word": "foreign",
+        "Phonetic": "/ˈfɔːrən/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "thuộc nước ngoài"
+      }
+    },
+    {
+      "front": {
+        "Word": "ingredient",
+        "Phonetic": "/ɪnˈɡriːdiənt/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "thành phần"
+      }
+    },
+    {
+      "front": {
+        "Word": "judge",
+        "Phonetic": "/dʒʌdʒ/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "thẩm phán (n)bình phẩm, phán xét (v)"
+      }
+    },
+    {
+      "front": {
+        "Word": "mix-up",
+        "Phonetic": "/mɪks ʌp/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sự lộn xộncuộc ẩu đả"
+      }
+    },
+    {
+      "front": {
+        "Word": "patron",
+        "Phonetic": "/ˈpeɪtrən khách quen 381 predict (v) /prɪˈdɪkt/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "dự đoán"
+      }
+    },
+    {
+      "front": {
+        "Word": "randomly",
+        "Phonetic": "/ˈrændəm/",
+        "Definition": "adv"
+      },
+      "back": {
+        "Meaning": "tình cờ, ngẫu nhiên"
+      }
+    },
+    {
+      "front": {
+        "Word": "remind",
+        "Phonetic": "/rɪˈmaɪnd/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "nhắc nhở"
+      }
+    }
+  ],
+  "Ordering Lunch": [
+    {
+      "front": {
+        "Word": "burden",
+        "Phonetic": "/ˈbɜːrdn/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "gánh nặng (n) tạo gánh nặng (v)"
+      }
+    },
+    {
+      "front": {
+        "Word": "commonly",
+        "Phonetic": "/ˈkɑmənli/",
+        "Definition": "adv"
+      },
+      "back": {
+        "Meaning": "thông thường"
+      }
+    },
+    {
+      "front": {
+        "Word": "delivery",
+        "Phonetic": "/dɪˈlɪvəri/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sự giao hàng"
+      }
+    },
+    {
+      "front": {
+        "Word": "elegance",
+        "Phonetic": "/ˈelɪɡəns/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sự thanh lịch"
+      }
+    },
+    {
+      "front": {
+        "Word": "fall to",
+        "Phonetic": "/fɔːl tuː/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "rơi vào tay (nói về trách nhiệm)"
+      }
+    },
+    {
+      "front": {
+        "Word": "impress",
+        "Phonetic": "/ɪmˈpres/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "gây ấn tượng"
+      }
+    },
+    {
+      "front": {
+        "Word": "individual",
+        "Phonetic": "/ˌɪndɪˈvɪdʒuəl/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "cá nhân, riêng lẻ"
+      }
+    },
+    {
+      "front": {
+        "Word": "reasonable",
+        "Phonetic": "/ˈriːznəbl/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "hợp lý, phải chăng"
+      }
+    },
+    {
+      "front": {
+        "Word": "multiple",
+        "Phonetic": "/ˈmʌltɪplaɪ/",
+        "Definition": "adj, v"
+      },
+      "back": {
+        "Meaning": "nhiều (adj) làm tăng lên (v)"
+      }
+    },
+    {
+      "front": {
+        "Word": "narrow",
+        "Phonetic": "/ˈnæroʊ/",
+        "Definition": "adj, v"
+      },
+      "back": {
+        "Meaning": "chật hẹp (adj) thu hẹp (v)"
+      }
+    },
+    {
+      "front": {
+        "Word": "pick up",
+        "Phonetic": "/pɪk ʌp/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "nhận hàng tại chỗ"
+      }
+    },
+    {
+      "front": {
+        "Word": "settle",
+        "Phonetic": "/ˈsetl/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "thanh toán"
+      }
+    }
+  ],
+  "Cooking As A Career": [
+    {
+      "front": {
+        "Word": "accustom to",
+        "Phonetic": "/əˈkʌstəm tu/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "làm quen với"
+      }
+    },
+    {
+      "front": {
+        "Word": "apprentice",
+        "Phonetic": "/əˈprentɪs/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "người học việc"
+      }
+    },
+    {
+      "front": {
+        "Word": "culinary",
+        "Phonetic": "/ˈkʌlɪneri/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "thuộc về nấu nướng"
+      }
+    },
+    {
+      "front": {
+        "Word": "demanding",
+        "Phonetic": "/dɪˈmændɪŋ/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "khó khăn, yêu cầu cao"
+      }
+    },
+    {
+      "front": {
+        "Word": "draw",
+        "Phonetic": "/drɔː/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "thu hút, lôi cuốn"
+      }
+    },
+    {
+      "front": {
+        "Word": "incorporate",
+        "Phonetic": "/ɪnˈkɔːrpəreɪt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "sát nhập"
+      }
+    },
+    {
+      "front": {
+        "Word": "influx",
+        "Phonetic": "/ˈɪnflʌks/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "dòng người đi vào"
+      }
+    },
+    {
+      "front": {
+        "Word": "method",
+        "Phonetic": "/ˈmeθəd/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "phương pháp"
+      }
+    },
+    {
+      "front": {
+        "Word": "methodical",
+        "Phonetic": "/məˈθɑdɪkl/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "làm việc có hệ thống (tính cách)"
+      }
+    },
+    {
+      "front": {
+        "Word": "procedure",
+        "Phonetic": "/prəˈsidʒər/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "quy trình"
+      }
+    },
+    {
+      "front": {
+        "Word": "outlet",
+        "Phonetic": "/ˈaʊtlet/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "cách thể hiện"
+      }
+    },
+    {
+      "front": {
+        "Word": "profession",
+        "Phonetic": "/prəˈfeʃn/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "chuyên môn"
+      }
+    },
+    {
+      "front": {
+        "Word": "relinquish",
+        "Phonetic": "/rɪˈlɪŋkwɪʃ/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "từ bỏ"
+      }
+    },
+    {
+      "front": {
+        "Word": "theme",
+        "Phonetic": "/θiːm/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "đề tài, chủ đề"
+      }
+    }
+  ],
+  "Events": [
+    {
+      "front": {
+        "Word": "assist",
+        "Phonetic": "/əˈsɪst/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "hỗ trợ"
+      }
+    },
+    {
+      "front": {
+        "Word": "support",
+        "Phonetic": "/səˈpɔrt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "ủng hộ, khuyến khích"
+      }
+    },
+    {
+      "front": {
+        "Word": "coordinate",
+        "Phonetic": "/koʊˈɔːrdɪneɪt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "phối hợp"
+      }
+    },
+    {
+      "front": {
+        "Word": "dimension",
+        "Phonetic": "/daɪˈmenʃn/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "kích thước"
+      }
+    },
+    {
+      "front": {
+        "Word": "general",
+        "Phonetic": "/ˈdʒenrəl/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "chung, tổng quát"
+      }
+    },
+    {
+      "front": {
+        "Word": "ideal",
+        "Phonetic": "/aɪˈdiːəl/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "lý tưởng"
+      }
+    },
+    {
+      "front": {
+        "Word": "exact",
+        "Phonetic": "/ɪɡˈzækt/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "chính xác"
+      }
+    },
+    {
+      "front": {
+        "Word": "lead time",
+        "Phonetic": "/ˈliːd taɪm/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "thời gian tiến hành"
+      }
+    },
+    {
+      "front": {
+        "Word": "proximity",
+        "Phonetic": "/prɑːkˈsɪməti/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sự gần (về không gian, thời gian)"
+      }
+    },
+    {
+      "front": {
+        "Word": "regulation",
+        "Phonetic": "/ˌrɛɡyəˈleɪʃn/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "quy định"
+      }
+    },
+    {
+      "front": {
+        "Word": "site",
+        "Phonetic": "/saɪt/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "địa điểm (xây dựng)"
+      }
+    },
+    {
+      "front": {
+        "Word": "stage",
+        "Phonetic": "/steɪdʒ/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "trình diễn Bạn có thích đi du lịch không? Những chủ đề tiếp theo sẽ là những từ vựng liên quan đến việc đi lại, du lịch, nếu bạn là người thích “xê dịch” thì đừng bỏ qua những phần sau đây nhé."
+      }
+    }
+  ],
+  "General Travel": [
+    {
+      "front": {
+        "Word": "agency",
+        "Phonetic": "/ˈeɪdʒənsi/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "công ty đại diện, môi giới"
+      }
+    },
+    {
+      "front": {
+        "Word": "announce",
+        "Phonetic": "/əˈnaʊns/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "thông báo"
+      }
+    },
+    {
+      "front": {
+        "Word": "beverage",
+        "Phonetic": "/ˈbevərɪdʒ/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "đồ uống"
+      }
+    },
+    {
+      "front": {
+        "Word": "board",
+        "Phonetic": "/bɔːrd/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "lên tàu, xe"
+      }
+    },
+    {
+      "front": {
+        "Word": "claim",
+        "Phonetic": "/kleɪm/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "cho là, khẳng định là"
+      }
+    },
+    {
+      "front": {
+        "Word": "delay",
+        "Phonetic": "/dɪˈleɪ/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "trì hoãn"
+      }
+    },
+    {
+      "front": {
+        "Word": "depart",
+        "Phonetic": "/dɪˈpɑːrt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "khởi hành"
+      }
+    },
+    {
+      "front": {
+        "Word": "embark",
+        "Phonetic": "/ɪmˈbɑːrk/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "lên tàu"
+      }
+    },
+    {
+      "front": {
+        "Word": "itinerary",
+        "Phonetic": "/aɪˈtɪnəreri/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "lịch trình, hành trình"
+      }
+    },
+    {
+      "front": {
+        "Word": "luggage",
+        "Phonetic": "/ˈlʌɡɪdʒ/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "hành lý"
+      }
+    },
+    {
+      "front": {
+        "Word": "prohibit",
+        "Phonetic": "/prəˈhɪbɪt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "cấm, ngăn chặn"
+      }
+    },
+    {
+      "front": {
+        "Word": "validate",
+        "Phonetic": "/ˈvælɪdeɪt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "phê duyệt"
+      }
+    }
+  ],
+  "Airlines": [
+    {
+      "front": {
+        "Word": "deal with",
+        "Phonetic": "/diːl wɪθ/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "giải quyết, đối mặt với"
+      }
+    },
+    {
+      "front": {
+        "Word": "destination",
+        "Phonetic": "/ˌdestɪˈneɪʃn/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "điểm đến"
+      }
+    },
+    {
+      "front": {
+        "Word": "distinguish",
+        "Phonetic": "/dɪˈstɪŋɡwɪʃ/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "phân biệt"
+      }
+    },
+    {
+      "front": {
+        "Word": "economize",
+        "Phonetic": "/ɪˈkɑːnəmaɪz/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "tiết kiệm"
+      }
+    },
+    {
+      "front": {
+        "Word": "equivalent",
+        "Phonetic": "/ɪˈkwɪvələnt/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "tương đương"
+      }
+    },
+    {
+      "front": {
+        "Word": "excursion",
+        "Phonetic": "/ɪkˈskɜːrʒn/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "chuyến tham quan"
+      }
+    },
+    {
+      "front": {
+        "Word": "expense",
+        "Phonetic": "/ɪkˈspens/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "chi phí"
+      }
+    },
+    {
+      "front": {
+        "Word": "extend",
+        "Phonetic": "/ɪkˈstend/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "gia hạn, kéo dài"
+      }
+    },
+    {
+      "front": {
+        "Word": "prospective",
+        "Phonetic": "/prəˈspektɪv có triển vọng, có khả năng 443 situation (n) /ˌsɪtʃuˈeɪʃn/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "tình huống"
+      }
+    },
+    {
+      "front": {
+        "Word": "substance",
+        "Phonetic": "/ˈsʌbstəns/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "chất"
+      }
+    },
+    {
+      "front": {
+        "Word": "economy class",
+        "Phonetic": "/ɪˈkɑnəmi klæs/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "hạng phổ thông trên máy bay"
+      }
+    }
+  ],
+  "Trains": [
+    {
+      "front": {
+        "Word": "comprehensive",
+        "Phonetic": "/ˌkɑːmprɪˈhensɪv/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "toàn diện, đầy đủ"
+      }
+    },
+    {
+      "front": {
+        "Word": "deluxe",
+        "Phonetic": "/ˌdəˈlʌks/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "sang trọng, cao cấp"
+      }
+    },
+    {
+      "front": {
+        "Word": "directory",
+        "Phonetic": "/daɪˈrɛktəri/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sách hướng dẫn"
+      }
+    },
+    {
+      "front": {
+        "Word": "duration",
+        "Phonetic": "/duˈreɪʃn/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "khoảng thời gian"
+      }
+    },
+    {
+      "front": {
+        "Word": "entitle",
+        "Phonetic": "/ɪnˈtaɪtl/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "cho phép"
+      }
+    },
+    {
+      "front": {
+        "Word": "fare",
+        "Phonetic": "/fer/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "tiền vé"
+      }
+    },
+    {
+      "front": {
+        "Word": "offset",
+        "Phonetic": "/ˈɔːfset/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "bù lại"
+      }
+    },
+    {
+      "front": {
+        "Word": "operate",
+        "Phonetic": "/ˈɑːpəreɪt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "hoạt động, vận hành"
+      }
+    },
+    {
+      "front": {
+        "Word": "punctual",
+        "Phonetic": "/ˈpʌŋktʃuəl/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "đúng giờ"
+      }
+    },
+    {
+      "front": {
+        "Word": "relatively",
+        "Phonetic": "/ˈrɛlət̮ɪvli/",
+        "Definition": "adv"
+      },
+      "back": {
+        "Meaning": "tương đối"
+      }
+    },
+    {
+      "front": {
+        "Word": "remainder",
+        "Phonetic": "/rɪˈmeɪndər/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "phần còn lại"
+      }
+    },
+    {
+      "front": {
+        "Word": "remote",
+        "Phonetic": "/rɪˈmoʊt/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "xa xôi, hẻo lánh"
+      }
+    }
+  ],
+  "Hotels": [
+    {
+      "front": {
+        "Word": "advance",
+        "Phonetic": "/ədˈvæns/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "3"
+      }
+    },
+    {
+      "front": {
+        "Word": "tiến bộ, tiến tới 459 chain",
+        "Phonetic": "/tʃeɪn/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "chuỗi (doanh nghiệp)"
+      }
+    },
+    {
+      "front": {
+        "Word": "check in",
+        "Phonetic": "/tʃek ɪn/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "làm thủ tục (nhận phòng, nhận vé…)"
+      }
+    },
+    {
+      "front": {
+        "Word": "confirm",
+        "Phonetic": "/kənˈfɜːrm/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "xác nhận, chứng thực"
+      }
+    },
+    {
+      "front": {
+        "Word": "expect",
+        "Phonetic": "/ɪkˈspekt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "mong đợi"
+      }
+    },
+    {
+      "front": {
+        "Word": "housekeeper",
+        "Phonetic": "/ˈhaʊskiːpər/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "nhân viên dọn phòng"
+      }
+    },
+    {
+      "front": {
+        "Word": "notify",
+        "Phonetic": "/ˈnoʊtɪfaɪ/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "thông báo"
+      }
+    },
+    {
+      "front": {
+        "Word": "preclude",
+        "Phonetic": "/prɪˈkluːd/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "ngăn cản"
+      }
+    },
+    {
+      "front": {
+        "Word": "quote",
+        "Phonetic": "/kwoʊt/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "lời trích dẫn"
+      }
+    },
+    {
+      "front": {
+        "Word": "rate",
+        "Phonetic": "/reɪt/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "tỷ lệ, mức giá"
+      }
+    },
+    {
+      "front": {
+        "Word": "reserve",
+        "Phonetic": "/rɪˈzɜːrv/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "đặt chỗ"
+      }
+    },
+    {
+      "front": {
+        "Word": "serve",
+        "Phonetic": "/sɜːrv/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "phục vụ"
+      }
+    }
+  ],
+  "Car Rentals": [
+    {
+      "front": {
+        "Word": "coincide",
+        "Phonetic": "/ˌkoʊɪnˈsaɪd/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "trùng hợp, đồng thời"
+      }
+    },
+    {
+      "front": {
+        "Word": "confusion",
+        "Phonetic": "/kənˈfyuʒn/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sự bối rối"
+      }
+    },
+    {
+      "front": {
+        "Word": "contact",
+        "Phonetic": "/ˈkɑːntækt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "liên hệ"
+      }
+    },
+    {
+      "front": {
+        "Word": "disappoint",
+        "Phonetic": "/ˌdɪsəˈpɔɪnt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "gây thất vọng"
+      }
+    },
+    {
+      "front": {
+        "Word": "guarantee",
+        "Phonetic": "/ˌɡærənˈtiː/",
+        "Definition": "v, n"
+      },
+      "back": {
+        "Meaning": "bảo đảm (v) sự bảo đảm (n)"
+      }
+    },
+    {
+      "front": {
+        "Word": "intend",
+        "Phonetic": "/ɪnˈtend/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "dự định, có ý định"
+      }
+    },
+    {
+      "front": {
+        "Word": "license",
+        "Phonetic": "/ˈlaɪsns/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "cấp phép"
+      }
+    },
+    {
+      "front": {
+        "Word": "nervous",
+        "Phonetic": "/ˈnɜːrvəs/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "lo lắng, bồn chồn"
+      }
+    },
+    {
+      "front": {
+        "Word": "request",
+        "Phonetic": "/rɪˈkwest/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "yêu cầu (v) lời yêu cầu (n)"
+      }
+    },
+    {
+      "front": {
+        "Word": "tempt",
+        "Phonetic": "/tempt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "lôi kéo, thuyết phục"
+      }
+    },
+    {
+      "front": {
+        "Word": "thrill",
+        "Phonetic": "/θrɪl/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "hồi hộp, xúc động (v) cảm giác hồi hộp (n)"
+      }
+    },
+    {
+      "front": {
+        "Word": "tier",
+        "Phonetic": "/tɪr/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "hàng, tầng"
+      }
+    }
+  ],
+  "Movies": [
+    {
+      "front": {
+        "Word": "attain",
+        "Phonetic": "/əˈteɪn/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "đạt được (mục đích)"
+      }
+    },
+    {
+      "front": {
+        "Word": "combine",
+        "Phonetic": "/kəmˈbaɪn/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "kết hợp, cộng lại"
+      }
+    },
+    {
+      "front": {
+        "Word": "continue",
+        "Phonetic": "/kənˈtɪnjuː/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "tiếp tục (= go on)"
+      }
+    },
+    {
+      "front": {
+        "Word": "description",
+        "Phonetic": "/dɪˈskrɪpʃn/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sự mô tả"
+      }
+    },
+    {
+      "front": {
+        "Word": "disperse",
+        "Phonetic": "/dɪˈspɜːrs/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "giải toán"
+      }
+    },
+    {
+      "front": {
+        "Word": "entertain",
+        "Phonetic": "/ˌentərˈteɪn/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "giải trí tiếp đãi"
+      }
+    },
+    {
+      "front": {
+        "Word": "influence",
+        "Phonetic": "/ˈɪnfluəns/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "sự ảnh hưởng (n)"
+      }
+    },
+    {
+      "front": {
+        "Word": "range",
+        "Phonetic": "/reɪndʒ/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "phạm vi"
+      }
+    },
+    {
+      "front": {
+        "Word": "release",
+        "Phonetic": "/rɪˈliːs/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "công chiếu (v) sự công chiếu (n)"
+      }
+    },
+    {
+      "front": {
+        "Word": "represent",
+        "Phonetic": "/ˌreprɪˈzent/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "tượng trưng, đại diện"
+      }
+    },
+    {
+      "front": {
+        "Word": "separate",
+        "Phonetic": "/ˈsepəreɪt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "tách rời, chia"
+      }
+    },
+    {
+      "front": {
+        "Word": "successive",
+        "Phonetic": "/səkˈsesiv/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "liên tiếp"
+      }
+    }
+  ],
+  "Theater": [
+    {
+      "front": {
+        "Word": "acting",
+        "Phonetic": "/ˈæktɪŋ/",
+        "Definition": "adj, n"
+      },
+      "back": {
+        "Meaning": "tạm thay thế trách nhiệm (adj) diễn xuất (n)"
+      }
+    },
+    {
+      "front": {
+        "Word": "approach",
+        "Phonetic": "/əˈprəʊtʃ/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "tiếp cận"
+      }
+    },
+    {
+      "front": {
+        "Word": "audience",
+        "Phonetic": "/ˈɔːdiəns/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "khán giả (xem trực tiếp)"
+      }
+    },
+    {
+      "front": {
+        "Word": "create",
+        "Phonetic": "/kriˈeɪt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "tạo ra"
+      }
+    },
+    {
+      "front": {
+        "Word": "dialogue",
+        "Phonetic": "/ˈdaɪəlɑːɡ/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "cuộc đối thoại"
+      }
+    },
+    {
+      "front": {
+        "Word": "element",
+        "Phonetic": "/ˈelɪmənt/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "yếu tố"
+      }
+    },
+    {
+      "front": {
+        "Word": "experience",
+        "Phonetic": "/ɪkˈspɪriəns/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "kinh nghiệm"
+      }
+    },
+    {
+      "front": {
+        "Word": "occur",
+        "Phonetic": "/əˈkɜːr/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "diễn ra, xảy ra"
+      }
+    },
+    {
+      "front": {
+        "Word": "perform",
+        "Phonetic": "/pərˈfɔːrm/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "biểu diễn, trình diễn"
+      }
+    },
+    {
+      "front": {
+        "Word": "rehearse",
+        "Phonetic": "/rɪˈhɜːrs/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "diễn tập"
+      }
+    },
+    {
+      "front": {
+        "Word": "review",
+        "Phonetic": "/rɪˈvjuː/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "bài phê bình (n) xem xét lại (v)"
+      }
+    },
+    {
+      "front": {
+        "Word": "sell out",
+        "Phonetic": "/sel aʊt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "bán hết"
+      }
+    }
+  ],
+  "Music": [
+    {
+      "front": {
+        "Word": "available",
+        "Phonetic": "/əˈveɪləbl/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "sẵn có"
+      }
+    },
+    {
+      "front": {
+        "Word": "broaden",
+        "Phonetic": "/ˈbrɔːdn/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "mở rộng"
+      }
+    },
+    {
+      "front": {
+        "Word": "categorize",
+        "Phonetic": "/ˈkætəɡəraɪz/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "phân loại"
+      }
+    },
+    {
+      "front": {
+        "Word": "disparate",
+        "Phonetic": "/ˈdɪs.pɚ.ət/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "khác biệt hoàn toàn"
+      }
+    },
+    {
+      "front": {
+        "Word": "divide",
+        "Phonetic": "/dɪˈvaɪd/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "phân chia"
+      }
+    },
+    {
+      "front": {
+        "Word": "favor(v) /ˈfeɪvər/ thích hơn 512 instinct",
+        "Phonetic": "/ˈɪnstɪŋkt/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "bản năng"
+      }
+    },
+    {
+      "front": {
+        "Word": "live",
+        "Phonetic": "/laɪv/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "còn sống"
+      }
+    },
+    {
+      "front": {
+        "Word": "reason",
+        "Phonetic": "/ˈriːzn/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "lý do"
+      }
+    },
+    {
+      "front": {
+        "Word": "relaxation",
+        "Phonetic": "/ˌrilækˈseɪʃn/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sự thư giãn"
+      }
+    },
+    {
+      "front": {
+        "Word": "taste",
+        "Phonetic": "/teɪst/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "thị hiếu, gu (thẩm mỹ)"
+      }
+    },
+    {
+      "front": {
+        "Word": "urge",
+        "Phonetic": "/ɜːrdʒ/",
+        "Definition": "v, n"
+      },
+      "back": {
+        "Meaning": "thôi thúc (v) sự thôi thúc (n)"
+      }
+    }
+  ],
+  "Museums": [
+    {
+      "front": {
+        "Word": "acquire",
+        "Phonetic": "/əˈkwaɪər/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "có được, mua được tiếp thu (kiến thức)"
+      }
+    },
+    {
+      "front": {
+        "Word": "admire",
+        "Phonetic": "/ədˈmaɪər/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "ngưỡng mộ"
+      }
+    },
+    {
+      "front": {
+        "Word": "collection",
+        "Phonetic": "/kəˈlɛkʃn/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "bộ sưu tập"
+      }
+    },
+    {
+      "front": {
+        "Word": "criticism",
+        "Phonetic": "/ˈkrɪt̮əˌsɪzəm/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sự phê bình"
+      }
+    },
+    {
+      "front": {
+        "Word": "express",
+        "Phonetic": "/ɪkˈspres/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "biểu lộ, bày tỏ"
+      }
+    },
+    {
+      "front": {
+        "Word": "fashion",
+        "Phonetic": "/ˈfæʃn/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "thời trang"
+      }
+    },
+    {
+      "front": {
+        "Word": "leisure",
+        "Phonetic": "/ˈliːʒər/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "thời gian rảnh"
+      }
+    },
+    {
+      "front": {
+        "Word": "respond",
+        "Phonetic": "/rɪˈspɑːnd/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "trả lời, phản ứng lại"
+      }
+    },
+    {
+      "front": {
+        "Word": "schedule",
+        "Phonetic": "/ˈskedʒuːl/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "lịch trình, kế hoạch (n) lên kế hoạch (v) (= plan)"
+      }
+    },
+    {
+      "front": {
+        "Word": "significant",
+        "Phonetic": "/sɪɡˈnɪfɪkənt/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "quan trọng, có ý nghĩa"
+      }
+    },
+    {
+      "front": {
+        "Word": "specialize in",
+        "Phonetic": "/ˈspeʃəlaɪz ɪn/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "chuyên về (lĩnh vực gì, làm gì)"
+      }
+    },
+    {
+      "front": {
+        "Word": "spectrum",
+        "Phonetic": "/ˈspektrəm/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "quang phổ dải âm thanh"
+      }
+    }
+  ],
+  "Media": [
+    {
+      "front": {
+        "Word": "assignment",
+        "Phonetic": "/əˈsaɪnmənt/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "bài tập, nhiệm vụ"
+      }
+    },
+    {
+      "front": {
+        "Word": "constitute",
+        "Phonetic": "/ˈkɑːnstətuːt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "cấu thành, tạo hành"
+      }
+    },
+    {
+      "front": {
+        "Word": "decisive",
+        "Phonetic": "/dɪˈsaɪsɪv/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "quyết đoán"
+      }
+    },
+    {
+      "front": {
+        "Word": "disseminate",
+        "Phonetic": "/dɪˈsemɪneɪt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "truyền bá"
+      }
+    },
+    {
+      "front": {
+        "Word": "impact",
+        "Phonetic": "/ɪmˈpækt/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sự tác động"
+      }
+    },
+    {
+      "front": {
+        "Word": "in-depth",
+        "Phonetic": "/ɪn depθ/",
+        "Definition": "idiom"
+      },
+      "back": {
+        "Meaning": "kỹ càng, triệt để"
+      }
+    },
+    {
+      "front": {
+        "Word": "investigate",
+        "Phonetic": "/ɪnˈvestɪɡeɪt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "điều tra, theo dõi"
+      }
+    },
+    {
+      "front": {
+        "Word": "link",
+        "Phonetic": "/lɪŋk/",
+        "Definition": "v, n"
+      },
+      "back": {
+        "Meaning": "mối liên hệ (n) liên kết (v)"
+      }
+    },
+    {
+      "front": {
+        "Word": "politician",
+        "Phonetic": "/ˌpɑːləˈtɪʃn/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "chính trị gia"
+      }
+    },
+    {
+      "front": {
+        "Word": "subscribe to",
+        "Phonetic": "/səbˈskraɪb/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "đặt mua dài hạn quyên góp"
+      }
+    },
+    {
+      "front": {
+        "Word": "thorough",
+        "Phonetic": "/ˈθɜːroʊ/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "kỹ lưỡng, tỉ mỉ"
+      }
+    },
+    {
+      "front": {
+        "Word": "choosy",
+        "Phonetic": "/ˈtʃuzi/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "kén chọn Đến đây, bạn đã đi gần hết chặng đường rồi đấy! Ở những chủ đề cuối cùng, bạn sẽ được tìm hiểu về lĩnh vực sức khỏe và những chủ đề liên quan, cùng xem ngay nhé!"
+      }
+    }
+  ],
+  "Dentist’s Office": [
+    {
+      "front": {
+        "Word": "catch up",
+        "Phonetic": "/kætʃ ʌp/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "bắt kịp với"
+      }
+    },
+    {
+      "front": {
+        "Word": "distract",
+        "Phonetic": "/dɪˈstrækt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "làm xao nhãng"
+      }
+    },
+    {
+      "front": {
+        "Word": "encourage",
+        "Phonetic": "/ˈevɪdənt/",
+        "Definition": "v) somebody to Verb /ɪnˈkɜːrɪdʒ/ khuyến khích ai làm gì 545 evident (adj"
+      },
+      "back": {
+        "Meaning": "hiển nhiên, rõ ràng (= obvious)"
+      }
+    },
+    {
+      "front": {
+        "Word": "habit",
+        "Phonetic": "/ˈhæbɪt/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "thói quen"
+      }
+    },
+    {
+      "front": {
+        "Word": "illuminate",
+        "Phonetic": "/ɪˈluːmɪneɪt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "chiếu sáng"
+      }
+    },
+    {
+      "front": {
+        "Word": "irritate",
+        "Phonetic": "/ˈɪrɪteɪt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "làm bực mình"
+      }
+    },
+    {
+      "front": {
+        "Word": "overview",
+        "Phonetic": "/ˈoʊvərvjuː/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "2"
+      }
+    },
+    {
+      "front": {
+        "Word": "cái nhìn khái quát 550 position",
+        "Phonetic": "/pəˈzɪʃn/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "vị trí, chỗ"
+      }
+    },
+    {
+      "front": {
+        "Word": "regular",
+        "Phonetic": "/ˈreɡjələr/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "thường xuyên"
+      }
+    },
+    {
+      "front": {
+        "Word": "restore",
+        "Phonetic": "/rɪˈstɔːr/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "khôi phục"
+      }
+    },
+    {
+      "front": {
+        "Word": "aware",
+        "Phonetic": "/əˈwer/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "biết, nhận thức"
+      }
+    }
+  ],
+  "Doctor’s Office": [
+    {
+      "front": {
+        "Word": "annual",
+        "Phonetic": "/ˈænjuəl/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "hàng năm"
+      }
+    },
+    {
+      "front": {
+        "Word": "appoint",
+        "Phonetic": "/əˈpɔɪnt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "ấn định (ngày giờ, nơi chốn)"
+      }
+    },
+    {
+      "front": {
+        "Word": "assess",
+        "Phonetic": "/əˈses/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "đánh giá"
+      }
+    },
+    {
+      "front": {
+        "Word": "diagnose",
+        "Phonetic": "/ˌdaɪəɡˈnoʊs/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "chẩn đoán"
+      }
+    },
+    {
+      "front": {
+        "Word": "effective",
+        "Phonetic": "/ɪˈfektɪv/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "hiệu quả"
+      }
+    },
+    {
+      "front": {
+        "Word": "instrument",
+        "Phonetic": "/ˈɪnstrəmənt/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "dụng cụ, thiết bị"
+      }
+    },
+    {
+      "front": {
+        "Word": "manage",
+        "Phonetic": "/ˈmænɪdʒ/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "kiểm soát, quản lý"
+      }
+    },
+    {
+      "front": {
+        "Word": "prevent",
+        "Phonetic": "/prɪˈvent/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "ngăn chặn"
+      }
+    },
+    {
+      "front": {
+        "Word": "recommend",
+        "Phonetic": "/ˌrekəˈmend/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "đề nghị, gợi ý"
+      }
+    },
+    {
+      "front": {
+        "Word": "record",
+        "Phonetic": "/rɪˈkɔːrd/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "ghi chép lại"
+      }
+    },
+    {
+      "front": {
+        "Word": "serious",
+        "Phonetic": "/ˈsɪriəs/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "nghiêm trọng, nặng"
+      }
+    }
+  ],
+  "Health Insurance": [
+    {
+      "front": {
+        "Word": "alternative",
+        "Phonetic": "/ɔːlˈtɜːrnətɪv/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "thay thế, khác"
+      }
+    },
+    {
+      "front": {
+        "Word": "aspect",
+        "Phonetic": "/ˈæspekt/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "khía cạnh"
+      }
+    },
+    {
+      "front": {
+        "Word": "concern",
+        "Phonetic": "/kənˈsɜːrn/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "bận tâm, lo lắng (v) mối quan tâm, lo lắng (n)"
+      }
+    },
+    {
+      "front": {
+        "Word": "emphasize",
+        "Phonetic": "/ˈemfəsaɪz/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "nhấn mạnh"
+      }
+    },
+    {
+      "front": {
+        "Word": "incur",
+        "Phonetic": "/ɪnˈkɜːr/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "gánh chịu"
+      }
+    },
+    {
+      "front": {
+        "Word": "personnel",
+        "Phonetic": "/ˌpɜːrsəˈnel/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "nhân sự"
+      }
+    },
+    {
+      "front": {
+        "Word": "policy",
+        "Phonetic": "/ˈpɑːləsi/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "chính sách"
+      }
+    },
+    {
+      "front": {
+        "Word": "portion",
+        "Phonetic": "/ˈpɔːrʃn/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "phần"
+      }
+    },
+    {
+      "front": {
+        "Word": "regardless",
+        "Phonetic": "/rɪˈɡɑrdləs/",
+        "Definition": "adv"
+      },
+      "back": {
+        "Meaning": "bất chấp"
+      }
+    },
+    {
+      "front": {
+        "Word": "reimburse",
+        "Phonetic": "/ˌriːɪmˈbɜːrs/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "hoàn trả"
+      }
+    },
+    {
+      "front": {
+        "Word": "suit",
+        "Phonetic": "/suːt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "hợp với"
+      }
+    },
+    {
+      "front": {
+        "Word": "treat",
+        "Phonetic": "/triːt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "chữa trị"
+      }
+    }
+  ],
+  "Hospitals": [
+    {
+      "front": {
+        "Word": "accompany",
+        "Phonetic": "/əˈkʌmpəni/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "đi cùng"
+      }
+    },
+    {
+      "front": {
+        "Word": "admit",
+        "Phonetic": "/ədˈmɪt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "cho vào, cho phép"
+      }
+    },
+    {
+      "front": {
+        "Word": "authorize",
+        "Phonetic": "/ˈɔːθəraɪz/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "ủy quyền"
+      }
+    },
+    {
+      "front": {
+        "Word": "designate",
+        "Phonetic": "/ˈdezɪɡneɪt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "chỉ rõ"
+      }
+    },
+    {
+      "front": {
+        "Word": "escort",
+        "Phonetic": "/ɪˈskɔːrt/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "người hộ tống"
+      }
+    },
+    {
+      "front": {
+        "Word": "identify",
+        "Phonetic": "/aɪˈdentɪfaɪ/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "nhận diện"
+      }
+    },
+    {
+      "front": {
+        "Word": "permission",
+        "Phonetic": "/pərˈmɪʃn/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sự chấp thuận"
+      }
+    },
+    {
+      "front": {
+        "Word": "pertinent",
+        "Phonetic": "/ˈpɜːrtnənt/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "có liên quan"
+      }
+    },
+    {
+      "front": {
+        "Word": "procedure",
+        "Phonetic": "/prəˈsiːdʒər/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "quy trình"
+      }
+    },
+    {
+      "front": {
+        "Word": "result",
+        "Phonetic": "/rɪˈzʌlt/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "kết quả"
+      }
+    },
+    {
+      "front": {
+        "Word": "statement",
+        "Phonetic": "/ˈsteɪtmənt/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "bản tường trình, báo cáo"
+      }
+    },
+    {
+      "front": {
+        "Word": "surgery",
+        "Phonetic": "/ˈsɜːrdʒəri/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "ca phẫu thuật"
+      }
+    }
+  ],
+  "Pharmacy": [
+    {
+      "front": {
+        "Word": "consultation",
+        "Phonetic": "/ˌkɑnslˈteɪʃn/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "việc bàn bạc, hội ý"
+      }
+    },
+    {
+      "front": {
+        "Word": "convenient",
+        "Phonetic": "/kənˈviːniənt/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "thuận tiện"
+      }
+    },
+    {
+      "front": {
+        "Word": "detect",
+        "Phonetic": "/dɪˈtekt/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "tìm ra, phát hiện ra"
+      }
+    },
+    {
+      "front": {
+        "Word": "factor",
+        "Phonetic": "/ˈfæktər/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "yếu tố"
+      }
+    },
+    {
+      "front": {
+        "Word": "interaction",
+        "Phonetic": "/ˌɪntərˈækt/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "sự tương tác"
+      }
+    },
+    {
+      "front": {
+        "Word": "limit",
+        "Phonetic": "/ˈlɪmɪt/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "giới hạn, định mức"
+      }
+    },
+    {
+      "front": {
+        "Word": "monitor",
+        "Phonetic": "/ˈmɑːnɪtər/",
+        "Definition": "v"
+      },
+      "back": {
+        "Meaning": "5"
+      }
+    },
+    {
+      "front": {
+        "Word": "giám sát 597 potential",
+        "Phonetic": "/pəˈtenʃl/",
+        "Definition": "adj"
+      },
+      "back": {
+        "Meaning": "tiềm năng"
+      }
+    },
+    {
+      "front": {
+        "Word": "sample",
+        "Phonetic": "/ˈsæmpl/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "mẫu thử (n)"
+      }
+    },
+    {
+      "front": {
+        "Word": "sense",
+        "Phonetic": "/sens/",
+        "Definition": "n"
+      },
+      "back": {
+        "Meaning": "khả năng phán đoán (n)cảm thấy (v)"
+      }
+    },
+    {
+      "front": {
+        "Word": "volunteer",
+        "Phonetic": "/ˌvɑː.lənˈtɪr/",
+        "Definition": "n, v"
+      },
+      "back": {
+        "Meaning": "tình nguyện (v)tình nguyện viên (n)"
+      }
+    }
+  ]
+}

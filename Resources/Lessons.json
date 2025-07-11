@@ -1,0 +1,128 @@
+{
+    "Hospitals": {
+        "title": "Bệnh viện",
+        "questions": [
+            {
+                "questionText": "Đi cùng",
+                "options": [ "accompany", "escort", "admit", "authorize" ],
+                "correctAnswer": "accompany"
+            },
+            {
+                "questionText": "Cho vào, cho phép",
+                "options": [ "admit", "authorize", "identify", "designate" ],
+                "correctAnswer": "admit"
+            },
+            {
+                "questionText": "Ủy quyền",
+                "options": [ "authorize", "accompany", "permission", "escort" ],
+                "correctAnswer": "authorize"
+            },
+            {
+                "questionText": "Chỉ rõ",
+                "options": [ "designate", "authorize", "identify", "procedure" ],
+                "correctAnswer": "designate"
+            },
+            {
+                "questionText": "Người hộ tống",
+                "options": [ "escort", "accompany", "identify", "surgery" ],
+                "correctAnswer": "escort"
+            },
+            {
+                "questionText": "Nhận diện",
+                "options": [ "identify", "permission", "procedure", "result" ],
+                "correctAnswer": "identify"
+            },
+            {
+                "questionText": "Sự chấp thuận",
+                "options": [ "permission", "statement", "result", "authorize" ],
+                "correctAnswer": "permission"
+            },
+            {
+                "questionText": "Có liên quan",
+                "options": [ "pertinent", "procedure", "surgery", "result" ],
+                "correctAnswer": "pertinent"
+            },
+            {
+                "questionText": "Quy trình",
+                "options": [ "procedure", "statement", "identify", "accompany" ],
+                "correctAnswer": "procedure"
+            },
+            {
+                "questionText": "Kết quả",
+                "options": [ "result", "surgery", "statement", "authorize" ],
+                "correctAnswer": "result"
+            },
+            {
+                "questionText": "Bản tường trình, báo cáo",
+                "options": [ "statement", "permission", "procedure", "surgery" ],
+                "correctAnswer": "statement"
+            },
+            {
+                "questionText": "Ca phẫu thuật",
+                "options": [ "surgery", "result", "authorize", "escort" ],
+                "correctAnswer": "surgery"
+            }
+        ]
+    },
+
+    "Pharmacy": {
+        "title": "Hiệu thuốc",
+        "questions": [
+            {
+                "questionText": "Việc bàn bạc, hội ý",
+                "options": [ "consultation", "interaction", "sample", "monitor" ],
+                "correctAnswer": "consultation"
+            },
+            {
+                "questionText": "Thuận tiện",
+                "options": [ "convenient", "potential", "factor", "limit" ],
+                "correctAnswer": "convenient"
+            },
+            {
+                "questionText": "Tìm ra, phát hiện ra",
+                "options": [ "detect", "monitor", "volunteer", "consultation" ],
+                "correctAnswer": "detect"
+            },
+            {
+                "questionText": "Yếu tố",
+                "options": [ "factor", "sample", "sense", "consultation" ],
+                "correctAnswer": "factor"
+            },
+            {
+                "questionText": "Sự tương tác",
+                "options": [ "interaction", "limit", "detect", "monitor" ],
+                "correctAnswer": "interaction"
+            },
+            {
+                "questionText": "Giới hạn, định mức",
+                "options": [ "limit", "monitor", "sense", "consultation" ],
+                "correctAnswer": "limit"
+            },
+            {
+                "questionText": "Giám sát",
+                "options": [ "monitor", "sample", "consultation", "detect" ],
+                "correctAnswer": "monitor"
+            },
+            {
+                "questionText": "Tiềm năng",
+                "options": [ "potential", "convenient", "factor", "limit" ],
+                "correctAnswer": "potential"
+            },
+            {
+                "questionText": "Mẫu thử",
+                "options": [ "sample", "sense", "volunteer", "interaction" ],
+                "correctAnswer": "sample"
+            },
+            {
+                "questionText": "Khả năng phán đoán / Cảm thấy",
+                "options": [ "sense", "sample", "monitor", "detect" ],
+                "correctAnswer": "sense"
+            },
+            {
+                "questionText": "Tình nguyện / Tình nguyện viên",
+                "options": [ "volunteer", "consultation", "interaction", "monitor" ],
+                "correctAnswer": "volunteer"
+            }
+        ]
+    }
+}
