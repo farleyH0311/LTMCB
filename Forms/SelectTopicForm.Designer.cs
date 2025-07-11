@@ -55,10 +55,10 @@ namespace WordUp.Forms
             // 
             flowTopics.AutoScroll = true;
             flowTopics.BackColor = Color.FromArgb(255, 241, 229);
-            flowTopics.Location = new Point(309, 196);
+            flowTopics.Location = new Point(254, 196);
             flowTopics.Margin = new Padding(2);
             flowTopics.Name = "flowTopics";
-            flowTopics.Size = new Size(646, 406);
+            flowTopics.Size = new Size(701, 406);
             flowTopics.TabIndex = 0;
             flowTopics.Paint += flowLayoutPanel1_Paint;
             // 
@@ -94,7 +94,7 @@ namespace WordUp.Forms
             guna2Panel1.BackgroundImage = (Image)resources.GetObject("guna2Panel1.BackgroundImage");
             guna2Panel1.BackgroundImageLayout = ImageLayout.Stretch;
             guna2Panel1.CustomizableEdges = customizableEdges1;
-            guna2Panel1.Location = new Point(2, 211);
+            guna2Panel1.Location = new Point(2, 196);
             guna2Panel1.Margin = new Padding(2);
             guna2Panel1.Name = "guna2Panel1";
             guna2Panel1.ShadowDecoration.CustomizableEdges = customizableEdges2;
@@ -108,7 +108,7 @@ namespace WordUp.Forms
             guna2Panel2.BackgroundImageLayout = ImageLayout.Stretch;
             guna2Panel2.Controls.Add(guna2HtmlLabel2);
             guna2Panel2.CustomizableEdges = customizableEdges3;
-            guna2Panel2.Location = new Point(60, 114);
+            guna2Panel2.Location = new Point(50, 98);
             guna2Panel2.Margin = new Padding(2);
             guna2Panel2.Name = "guna2Panel2";
             guna2Panel2.ShadowDecoration.CustomizableEdges = customizableEdges4;
@@ -143,7 +143,7 @@ namespace WordUp.Forms
             txtSearch.ForeColor = Color.Navy;
             txtSearch.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
             txtSearch.Location = new Point(374, 125);
-            txtSearch.Margin = new Padding(8, 8, 8, 8);
+            txtSearch.Margin = new Padding(8);
             txtSearch.Name = "txtSearch";
             txtSearch.PlaceholderForeColor = Color.MidnightBlue;
             txtSearch.PlaceholderText = "🔍 Tìm nhanh chủ đề";
@@ -182,11 +182,11 @@ namespace WordUp.Forms
             BackColor = Color.FromArgb(255, 255, 192);
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             ClientSize = new Size(978, 619);
+            Controls.Add(flowTopics);
+            Controls.Add(guna2Panel2);
             Controls.Add(guna2Button1);
             Controls.Add(txtSearch);
-            Controls.Add(flowTopics);
             Controls.Add(guna2ShadowPanel1);
-            Controls.Add(guna2Panel2);
             Controls.Add(guna2Panel1);
             Margin = new Padding(2);
             Name = "SelectTopicForm";

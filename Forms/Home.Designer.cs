@@ -345,7 +345,7 @@
             txtTuKhoa.CustomizableEdges = customizableEdges19;
             txtTuKhoa.DefaultText = "";
             txtTuKhoa.Font = new Font("Segoe UI", 9F);
-            txtTuKhoa.Location = new Point(342, 169);
+            txtTuKhoa.Location = new Point(342, 176);
             txtTuKhoa.Margin = new Padding(4, 5, 4, 5);
             txtTuKhoa.Name = "txtTuKhoa";
             txtTuKhoa.PlaceholderText = "Nhập từ cần tra...";

@@ -239,10 +239,10 @@
             // 
             // flowLayoutPanel1
             // 
-            flowLayoutPanel1.Location = new Point(499, 273);
+            flowLayoutPanel1.Location = new Point(499, 217);
             flowLayoutPanel1.Margin = new Padding(2);
             flowLayoutPanel1.Name = "flowLayoutPanel1";
-            flowLayoutPanel1.Size = new Size(451, 335);
+            flowLayoutPanel1.Size = new Size(451, 391);
             flowLayoutPanel1.TabIndex = 28;
             // 
             // txtSearch
@@ -259,14 +259,14 @@
             txtSearch.Font = new Font("Comic Sans MS", 10.875F, FontStyle.Bold, GraphicsUnit.Point, 0);
             txtSearch.ForeColor = Color.Navy;
             txtSearch.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtSearch.Location = new Point(499, 202);
+            txtSearch.Location = new Point(499, 151);
             txtSearch.Margin = new Padding(6);
             txtSearch.Name = "txtSearch";
             txtSearch.PlaceholderForeColor = Color.MidnightBlue;
             txtSearch.PlaceholderText = "🔍 Tìm nhanh ";
             txtSearch.SelectedText = "";
             txtSearch.ShadowDecoration.CustomizableEdges = customizableEdges16;
-            txtSearch.Size = new Size(448, 45);
+            txtSearch.Size = new Size(455, 45);
             txtSearch.TabIndex = 29;
             txtSearch.TextChanged += txtSearch_TextChanged;
             // 
