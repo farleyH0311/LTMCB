@@ -308,6 +308,7 @@ namespace WordUp.Forms
             this.Close();
             mainform = new Form1();
             mainform.Show();
+
         }
 
         private async void btnTraTu_Click(object sender, EventArgs e)
@@ -344,7 +345,7 @@ namespace WordUp.Forms
 
             if (string.IsNullOrWhiteSpace(textToSpeak))
             {
-                textToSpeak = txtTuKhoa.Text.Trim();
+                textToSpeak = currentEnglishWord;
                 if (string.IsNullOrWhiteSpace(textToSpeak))
                 {
                     MessageBox.Show("Vui lòng nhập từ cần phát âm hoặc tô đen kết quả cần đọc.");

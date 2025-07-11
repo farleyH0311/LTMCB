@@ -24,27 +24,21 @@ namespace WordUp.Forms
         {
             try
             {
-                // Load ảnh gốc
-                Image original = Image.FromFile("huongdan.png");
+                string imagePath = Path.Combine(Application.StartupPath, "Resources", "huongdan.png");
+                Image original = Image.FromFile(imagePath);
+                int availableWidth = panelHuongDan.ClientSize.Width - 20; 
 
-                // Tính toán kích thước mới dựa trên chiều rộng panel (trừ scrollbar)
-                int availableWidth = panelHuongDan.ClientSize.Width - 20; // Trừ 20px cho padding
-
-                // Tính tỷ lệ để giữ nguyên tỷ lệ khung hình
                 double ratio = (double)original.Width / original.Height;
                 int newWidth = availableWidth;
                 int newHeight = (int)(newWidth / ratio);
 
-                // Tạo ảnh mới với kích thước đã tính toán
                 Bitmap resizedImage = new Bitmap(original, newWidth, newHeight);
 
-                // Thiết lập cho PictureBox
                 picHuongDan.Image = resizedImage;
                 picHuongDan.Size = new Size(newWidth, newHeight);
-                picHuongDan.Location = new Point(10, 10); // Một chút padding từ góc trên trái
+                picHuongDan.Location = new Point(10, 10); 
                 picHuongDan.SizeMode = PictureBoxSizeMode.Normal;
 
-                // Giải phóng ảnh gốc
                 original.Dispose();
             }
             catch (Exception ex)
