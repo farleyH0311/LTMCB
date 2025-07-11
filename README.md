@@ -161,6 +161,7 @@ Cả nhóm:
 - Chọn đề tài, công nghệ, hướng phát triển.
 - Chọn các chức năng cần có của ứng dụng.
 - Lên kế hoạch, thời gian làm việc.
+*Nhánh chính của dự án là **final** tuy nhiên sau khi merge các nhánh và sửa lỗi đã mất commit của các thành viên. Do đó phiền mọi người vui lòng xem đóng góp chi tiết của các thành viên qua nhánh **main** và **new**. Xin chân thành cảm ơn.*
 
 ### 1. **Kim Thái Vi Anh** – `23520045`– [`@younglttlefrog`](https://github.com/younglttlefrog)
 - Thiết kế giao diện:
