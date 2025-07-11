@@ -67,14 +67,13 @@ WordUp!/
 │   ├── ForgotPassword           # Quên mật khẩu 
 │   ├── Chat                     # Nhắn tin
 │   ├── Game
-│   ├── Room
-│   ├── History
+│   ├── History                  # Lịch sử thi đấu
 │   ├── UploadQuiz
-│   ├── Prepare
+│   ├── Prepare                  # Phòng chờ thách đấu
 │   ├── Flashcard                # Chọn bài học và học bằng flashcard
 │   ├── LeaderBoard              # Bảng xếp hạng
 │   ├── PractiseQuiz             # Ôn tập quiz
-│   ├── ResultForm
+│   ├── ResultForm               # Điểm thi đấu giữa các thành viên của phòng
 │   ├── Forum                    # Diễn đàn thảo luận (đăng bài, bình luận, thả cảm xúc)
 │   ├── Notification             # Thông báo về bài đăng, lời mời thách đấu quiz
 │   ├── Profile                  # Hồ sơ cá nhân (hiển thị và chỉnh sửa thông tin người dùng)
@@ -144,6 +143,7 @@ Install-Package System.Speech
 Install-Package Microsoft.CognitiveServices.Speech
 Install-Package System.Net.Http
 Install-Package Guna.UI2.WinForms
+Install-Package NAudio
 ```
 
 ### Bước 4: Chuẩn Bị Dữ Liệu (Tùy chọn)
@@ -161,7 +161,8 @@ Cả nhóm:
 - Chọn đề tài, công nghệ, hướng phát triển.
 - Chọn các chức năng cần có của ứng dụng.
 - Lên kế hoạch, thời gian làm việc.
-
+- Kiểm thử và chỉnh sửa.
+  
 *Nhánh chính của dự án là **final** tuy nhiên sau khi merge các nhánh và sửa lỗi đã mất commit của các thành viên. Do đó phiền mọi người vui lòng xem đóng góp chi tiết của các thành viên qua nhánh **main** và **new**. Xin chân thành cảm ơn.*
 
 ### 1. **Kim Thái Vi Anh** – `23520045`– [`@younglttlefrog`](https://github.com/younglttlefrog)
