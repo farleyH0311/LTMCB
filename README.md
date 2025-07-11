@@ -66,9 +66,9 @@ WordUp!/
 │   ├── Home                     # Trang chủ (thông tin chung, tra từ, trò chuyện với AI)
 │   ├── ForgotPassword           # Quên mật khẩu 
 │   ├── Chat                     # Nhắn tin
-│   ├── Game
+│   ├── Game                     # Tham gia thách đấuđấu
 │   ├── History                  # Lịch sử thi đấu
-│   ├── UploadQuiz
+│   ├── UploadQuiz               # Tải lên quiz
 │   ├── Prepare                  # Phòng chờ thách đấu
 │   ├── Flashcard                # Chọn bài học và học bằng flashcard
 │   ├── LeaderBoard              # Bảng xếp hạng
@@ -163,7 +163,7 @@ Cả nhóm:
 - Lên kế hoạch, thời gian làm việc.
 - Kiểm thử và chỉnh sửa.
   
-*Nhánh chính của dự án là **final** tuy nhiên sau khi merge các nhánh và sửa lỗi đã mất commit của các thành viên. Do đó phiền mọi người vui lòng xem đóng góp chi tiết của các thành viên qua nhánh **main** và **new**. Xin chân thành cảm ơn.*
+*Nhánh hoàn thiện của dự án là **final** tuy nhiên sau khi merge các nhánh và sửa lỗi đã mất commit của các thành viên. Do đó phiền mọi người vui lòng xem đóng góp chi tiết của các thành viên qua nhánh **main** và **new**. Xin chân thành cảm ơn!*
 
 ### 1. **Kim Thái Vi Anh** – `23520045`– [`@younglttlefrog`](https://github.com/younglttlefrog)
 - Thiết kế giao diện:
