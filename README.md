@@ -203,9 +203,9 @@ Cả nhóm:
   - Trang flashcard.
   - Trang chủ.
 - Code chức năng:
-  - Học với flashcard.
+  - Học từ vựng và phát âm với flashcard.
   - Kiểm tra phát âm và chấm điểm.
-  - Luyện nói với AI.
+  - Luyện tập speaking với AI.
 - Merge các branch của các thành viên trong git.
 
 
