@@ -108,12 +108,13 @@ namespace WordUp.Forms
             var lblRank = new Label
             {
                 Text = medalEmoji,
-                Font = new Font("Segoe UI Emoji", 12, FontStyle.Bold),
-
-                Size = new Size(50, 40),
+                Font = rank <= 3
+                ? new Font("Segoe UI Emoji", 12, FontStyle.Bold)
+                : new Font("Segoe UI", 12, FontStyle.Bold),
+                Size = new Size(60, 40),
                 AutoSize = false,
                 TextAlign = ContentAlignment.MiddleCenter,
-                Location = new Point(10, 10),
+                Location = new Point(5, 5),
                 BackColor = Color.Transparent
             };
 
@@ -193,11 +194,24 @@ namespace WordUp.Forms
         {
             string keyword = txtSearch.Text.Trim().ToLower();
 
-            var filtered = allProfiles
+            var sortedAll = allProfiles
+    .OrderByDescending(p => p.Score)
+    .Select((p, index) => new { Rank = index + 1, p.Username, p.Score })
+    .ToList();
+
+            var filtered = sortedAll
                 .Where(p => p.Username != null && p.Username.ToLower().Contains(keyword))
                 .ToList();
 
-            DisplayProfiles(filtered);
+            flowLayoutPanel1.Controls.Clear();
+            flowLayoutPanel1.Controls.Add(CreateLeaderboardHeader());
+
+            foreach (var user in filtered)
+            {
+                var item = CreateLeaderboardItem(user.Rank, user.Username, user.Score);
+                flowLayoutPanel1.Controls.Add(item);
+            }
+
         }
 
         private void Trangcanhan_Click(object sender, EventArgs e)
@@ -266,11 +280,6 @@ namespace WordUp.Forms
             mainform.home = new Home(mainform, currentUser);
             mainform.home.Show();
             this.Close();
-        }
-
-        private void guna2Panel4_Paint(object sender, PaintEventArgs e)
-        {
-
         }
     }
 }
