@@ -56,9 +56,16 @@ namespace WordUp.Forms
 
                     ranking.Add((username, score));
                 }
+                //Sort rank
+                var enrichedRanking = answersSnapshot.Documents.Select(doc => new
+                {
+                    username = usernameMap.ContainsKey(doc.Id) ? usernameMap[doc.Id] : doc.Id,
+                    score = doc.ContainsField("score") ? doc.GetValue<int>("score") : 0,
+                    timestamp = doc.ContainsField("timestamp") ? doc.GetValue<Timestamp>("timestamp").ToDateTime() : DateTime.MaxValue
+                }).OrderByDescending(x => x.score)
+                .ThenBy(x => x.timestamp) // ai hoàn thành sớm hơn xếp cao hơn nếu cùng điểm
+                .ToList();
 
-                // Sắp xếp giảm dần theo điểm
-                ranking = ranking.OrderByDescending(x => x.score).ToList();
 
                 // Hiển thị điểm người dùng hiện tại
                 var current = ranking.FirstOrDefault(x => x.username == currentUser.Username);
