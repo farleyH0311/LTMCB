@@ -88,12 +88,12 @@
             guna2ShadowPanel1.Controls.Add(guna2HtmlLabel1);
             guna2ShadowPanel1.FillColor = Color.MidnightBlue;
             guna2ShadowPanel1.ForeColor = Color.MidnightBlue;
-            guna2ShadowPanel1.Location = new Point(292, 2);
+            guna2ShadowPanel1.Location = new Point(365, 2);
             guna2ShadowPanel1.Margin = new Padding(2);
             guna2ShadowPanel1.Name = "guna2ShadowPanel1";
             guna2ShadowPanel1.Radius = 20;
             guna2ShadowPanel1.ShadowColor = Color.Black;
-            guna2ShadowPanel1.Size = new Size(415, 85);
+            guna2ShadowPanel1.Size = new Size(519, 106);
             guna2ShadowPanel1.TabIndex = 0;
             // 
             // guna2Panel1
@@ -102,11 +102,11 @@
             guna2Panel1.BackgroundImage = (Image)resources.GetObject("guna2Panel1.BackgroundImage");
             guna2Panel1.BackgroundImageLayout = ImageLayout.Stretch;
             guna2Panel1.CustomizableEdges = customizableEdges1;
-            guna2Panel1.Location = new Point(332, 9);
+            guna2Panel1.Location = new Point(415, 11);
             guna2Panel1.Margin = new Padding(2);
             guna2Panel1.Name = "guna2Panel1";
             guna2Panel1.ShadowDecoration.CustomizableEdges = customizableEdges2;
-            guna2Panel1.Size = new Size(54, 65);
+            guna2Panel1.Size = new Size(68, 81);
             guna2Panel1.TabIndex = 1;
             // 
             // guna2HtmlLabel1
@@ -114,10 +114,10 @@
             guna2HtmlLabel1.BackColor = Color.Transparent;
             guna2HtmlLabel1.Font = new Font("Comic Sans MS", 28.125F, FontStyle.Bold, GraphicsUnit.Point, 0);
             guna2HtmlLabel1.ForeColor = SystemColors.ActiveCaption;
-            guna2HtmlLabel1.Location = new Point(30, 9);
+            guna2HtmlLabel1.Location = new Point(38, 11);
             guna2HtmlLabel1.Margin = new Padding(2);
             guna2HtmlLabel1.Name = "guna2HtmlLabel1";
-            guna2HtmlLabel1.Size = new Size(306, 67);
+            guna2HtmlLabel1.Size = new Size(362, 80);
             guna2HtmlLabel1.TabIndex = 0;
             guna2HtmlLabel1.Text = "QUIZ ROOM";
             // 
@@ -133,11 +133,11 @@
             guna2Panel2.Controls.Add(Thachdau);
             guna2Panel2.Controls.Add(Trangcanhan);
             guna2Panel2.CustomizableEdges = customizableEdges15;
-            guna2Panel2.Location = new Point(-4, 2);
+            guna2Panel2.Location = new Point(-5, 2);
             guna2Panel2.Margin = new Padding(2);
             guna2Panel2.Name = "guna2Panel2";
             guna2Panel2.ShadowDecoration.CustomizableEdges = customizableEdges16;
-            guna2Panel2.Size = new Size(240, 502);
+            guna2Panel2.Size = new Size(300, 628);
             guna2Panel2.TabIndex = 27;
             // 
             // guna2Button1
@@ -152,11 +152,11 @@
             guna2Button1.Font = new Font("Segoe UI", 10.875F, FontStyle.Bold, GraphicsUnit.Point, 0);
             guna2Button1.ForeColor = Color.MidnightBlue;
             guna2Button1.HoverState.FillColor = Color.LightSteelBlue;
-            guna2Button1.Location = new Point(28, 232);
+            guna2Button1.Location = new Point(35, 290);
             guna2Button1.Margin = new Padding(2);
             guna2Button1.Name = "guna2Button1";
             guna2Button1.ShadowDecoration.CustomizableEdges = customizableEdges4;
-            guna2Button1.Size = new Size(180, 45);
+            guna2Button1.Size = new Size(225, 56);
             guna2Button1.TabIndex = 27;
             guna2Button1.Text = "\U0001f9e0 Quiz";
             guna2Button1.Click += Quiz_Click;
@@ -166,10 +166,10 @@
             label8.AutoSize = true;
             label8.Font = new Font("Segoe UI", 19.875F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label8.ForeColor = Color.MidnightBlue;
-            label8.Location = new Point(78, 11);
+            label8.Location = new Point(98, 14);
             label8.Margin = new Padding(2, 0, 2, 0);
             label8.Name = "label8";
-            label8.Size = new Size(166, 46);
+            label8.Size = new Size(194, 54);
             label8.TabIndex = 26;
             label8.Text = "WordUp!";
             // 
@@ -178,10 +178,10 @@
             panel2.AutoSize = true;
             panel2.BackgroundImage = (Image)resources.GetObject("panel2.BackgroundImage");
             panel2.BackgroundImageLayout = ImageLayout.Stretch;
-            panel2.Location = new Point(10, 11);
+            panel2.Location = new Point(12, 14);
             panel2.Margin = new Padding(2);
             panel2.Name = "panel2";
-            panel2.Size = new Size(76, 89);
+            panel2.Size = new Size(95, 111);
             panel2.TabIndex = 25;
             panel2.Click += btnHome_Click;
             // 
@@ -197,11 +197,11 @@
             Diendan.Font = new Font("Segoe UI", 10.875F, FontStyle.Bold, GraphicsUnit.Point, 0);
             Diendan.ForeColor = Color.MidnightBlue;
             Diendan.HoverState.FillColor = Color.LightSteelBlue;
-            Diendan.Location = new Point(28, 402);
+            Diendan.Location = new Point(35, 502);
             Diendan.Margin = new Padding(2);
             Diendan.Name = "Diendan";
             Diendan.ShadowDecoration.CustomizableEdges = customizableEdges6;
-            Diendan.Size = new Size(180, 45);
+            Diendan.Size = new Size(225, 56);
             Diendan.TabIndex = 13;
             Diendan.Text = "💬 Diễn đàn";
             Diendan.Click += btnForum_Click;
@@ -218,11 +218,11 @@
             Flashcard.Font = new Font("Segoe UI", 10.875F, FontStyle.Bold, GraphicsUnit.Point, 0);
             Flashcard.ForeColor = Color.MidnightBlue;
             Flashcard.HoverState.FillColor = Color.LightSteelBlue;
-            Flashcard.Location = new Point(28, 174);
+            Flashcard.Location = new Point(35, 218);
             Flashcard.Margin = new Padding(2);
             Flashcard.Name = "Flashcard";
             Flashcard.ShadowDecoration.CustomizableEdges = customizableEdges8;
-            Flashcard.Size = new Size(180, 45);
+            Flashcard.Size = new Size(225, 56);
             Flashcard.TabIndex = 0;
             Flashcard.Text = "📚 Flashcard";
             Flashcard.Click += btnFlashcard_Click;
@@ -239,11 +239,11 @@
             Bangxephang.Font = new Font("Segoe UI", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
             Bangxephang.ForeColor = Color.MidnightBlue;
             Bangxephang.HoverState.FillColor = Color.LightSteelBlue;
-            Bangxephang.Location = new Point(28, 348);
+            Bangxephang.Location = new Point(35, 435);
             Bangxephang.Margin = new Padding(2);
             Bangxephang.Name = "Bangxephang";
             Bangxephang.ShadowDecoration.CustomizableEdges = customizableEdges10;
-            Bangxephang.Size = new Size(180, 45);
+            Bangxephang.Size = new Size(225, 56);
             Bangxephang.TabIndex = 12;
             Bangxephang.Text = "🏆 Bảng xếp hạng";
             Bangxephang.Click += Bangxephang_Click;
@@ -260,11 +260,11 @@
             Thachdau.Font = new Font("Segoe UI", 10.875F, FontStyle.Bold, GraphicsUnit.Point, 0);
             Thachdau.ForeColor = Color.MidnightBlue;
             Thachdau.HoverState.FillColor = Color.LightSteelBlue;
-            Thachdau.Location = new Point(28, 289);
+            Thachdau.Location = new Point(35, 361);
             Thachdau.Margin = new Padding(2);
             Thachdau.Name = "Thachdau";
             Thachdau.ShadowDecoration.CustomizableEdges = customizableEdges12;
-            Thachdau.Size = new Size(180, 45);
+            Thachdau.Size = new Size(225, 56);
             Thachdau.TabIndex = 10;
             Thachdau.Text = "⚔️ Thách đấu";
             Thachdau.Click += Thachdau_Click;
@@ -281,11 +281,11 @@
             Trangcanhan.Font = new Font("Segoe UI", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
             Trangcanhan.ForeColor = Color.MidnightBlue;
             Trangcanhan.HoverState.FillColor = Color.LightSteelBlue;
-            Trangcanhan.Location = new Point(28, 118);
+            Trangcanhan.Location = new Point(35, 148);
             Trangcanhan.Margin = new Padding(2);
             Trangcanhan.Name = "Trangcanhan";
             Trangcanhan.ShadowDecoration.CustomizableEdges = customizableEdges14;
-            Trangcanhan.Size = new Size(180, 45);
+            Trangcanhan.Size = new Size(225, 56);
             Trangcanhan.TabIndex = 11;
             Trangcanhan.Text = "👤 Trang cá nhân";
             Trangcanhan.Click += btnProfile_Click;
@@ -295,11 +295,11 @@
             guna2Panel3.BackgroundImage = (Image)resources.GetObject("guna2Panel3.BackgroundImage");
             guna2Panel3.BackgroundImageLayout = ImageLayout.Stretch;
             guna2Panel3.CustomizableEdges = customizableEdges17;
-            guna2Panel3.Location = new Point(292, 102);
+            guna2Panel3.Location = new Point(365, 128);
             guna2Panel3.Margin = new Padding(2);
             guna2Panel3.Name = "guna2Panel3";
             guna2Panel3.ShadowDecoration.CustomizableEdges = customizableEdges18;
-            guna2Panel3.Size = new Size(415, 216);
+            guna2Panel3.Size = new Size(519, 270);
             guna2Panel3.TabIndex = 28;
             // 
             // txtRoomID
@@ -316,14 +316,14 @@
             txtRoomID.Font = new Font("Segoe UI", 10.125F, FontStyle.Bold, GraphicsUnit.Point, 0);
             txtRoomID.ForeColor = Color.MidnightBlue;
             txtRoomID.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtRoomID.Location = new Point(292, 325);
-            txtRoomID.Margin = new Padding(4);
+            txtRoomID.Location = new Point(365, 406);
+            txtRoomID.Margin = new Padding(5, 5, 5, 5);
             txtRoomID.Name = "txtRoomID";
             txtRoomID.PlaceholderForeColor = Color.FromArgb(64, 64, 64);
             txtRoomID.PlaceholderText = "Nhập ID room";
             txtRoomID.SelectedText = "";
             txtRoomID.ShadowDecoration.CustomizableEdges = customizableEdges20;
-            txtRoomID.Size = new Size(200, 42);
+            txtRoomID.Size = new Size(250, 52);
             txtRoomID.TabIndex = 29;
             txtRoomID.TextAlign = HorizontalAlignment.Center;
             txtRoomID.TextChanged += txtRoomID_TextChanged;
@@ -339,11 +339,11 @@
             btnThamGia.FillColor = Color.MidnightBlue;
             btnThamGia.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnThamGia.ForeColor = Color.White;
-            btnThamGia.Location = new Point(292, 373);
+            btnThamGia.Location = new Point(365, 466);
             btnThamGia.Margin = new Padding(2);
             btnThamGia.Name = "btnThamGia";
             btnThamGia.ShadowDecoration.CustomizableEdges = customizableEdges22;
-            btnThamGia.Size = new Size(200, 42);
+            btnThamGia.Size = new Size(250, 52);
             btnThamGia.TabIndex = 30;
             btnThamGia.Text = "Tham gia";
             btnThamGia.Click += btnThamGia_Click;
@@ -353,7 +353,7 @@
             guna2HtmlLabel2.BackColor = Color.Transparent;
             guna2HtmlLabel2.Font = new Font("Segoe UI", 10.125F, FontStyle.Bold, GraphicsUnit.Point, 0);
             guna2HtmlLabel2.ForeColor = Color.MidnightBlue;
-            guna2HtmlLabel2.Location = new Point(542, 325);
+            guna2HtmlLabel2.Location = new Point(678, 406);
             guna2HtmlLabel2.Margin = new Padding(2);
             guna2HtmlLabel2.Name = "guna2HtmlLabel2";
             guna2HtmlLabel2.Size = new Size(3, 2);
@@ -371,11 +371,11 @@
             btnTaoPhong.FillColor = Color.MidnightBlue;
             btnTaoPhong.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnTaoPhong.ForeColor = Color.White;
-            btnTaoPhong.Location = new Point(505, 326);
+            btnTaoPhong.Location = new Point(631, 408);
             btnTaoPhong.Margin = new Padding(2);
             btnTaoPhong.Name = "btnTaoPhong";
             btnTaoPhong.ShadowDecoration.CustomizableEdges = customizableEdges24;
-            btnTaoPhong.Size = new Size(202, 41);
+            btnTaoPhong.Size = new Size(252, 51);
             btnTaoPhong.TabIndex = 32;
             btnTaoPhong.Text = "Tạo phòng mới";
             btnTaoPhong.Click += btnTaoPhong_Click;
@@ -383,7 +383,7 @@
             // guna2HtmlLabel3
             // 
             guna2HtmlLabel3.BackColor = Color.Transparent;
-            guna2HtmlLabel3.Location = new Point(606, 349);
+            guna2HtmlLabel3.Location = new Point(758, 436);
             guna2HtmlLabel3.Margin = new Padding(2);
             guna2HtmlLabel3.Name = "guna2HtmlLabel3";
             guna2HtmlLabel3.Size = new Size(3, 2);
@@ -392,7 +392,7 @@
             // 
             // btnGhepNgauNhien
             // 
-            btnGhepNgauNhien.BackColor = Color.Yellow;
+            btnGhepNgauNhien.BackColor = Color.Transparent;
             btnGhepNgauNhien.BorderRadius = 25;
             btnGhepNgauNhien.CustomizableEdges = customizableEdges25;
             btnGhepNgauNhien.DisabledState.BorderColor = Color.DarkGray;
@@ -402,11 +402,11 @@
             btnGhepNgauNhien.FillColor = Color.Gold;
             btnGhepNgauNhien.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnGhepNgauNhien.ForeColor = Color.Firebrick;
-            btnGhepNgauNhien.Location = new Point(506, 373);
+            btnGhepNgauNhien.Location = new Point(632, 466);
             btnGhepNgauNhien.Margin = new Padding(2);
             btnGhepNgauNhien.Name = "btnGhepNgauNhien";
             btnGhepNgauNhien.ShadowDecoration.CustomizableEdges = customizableEdges26;
-            btnGhepNgauNhien.Size = new Size(201, 46);
+            btnGhepNgauNhien.Size = new Size(251, 58);
             btnGhepNgauNhien.TabIndex = 34;
             btnGhepNgauNhien.Text = "Ghép ngẫu nhiên";
             btnGhepNgauNhien.Click += btnGhepNgauNhien_Click;
@@ -422,21 +422,21 @@
             guna2Button2.FillColor = Color.MidnightBlue;
             guna2Button2.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             guna2Button2.ForeColor = SystemColors.ActiveCaption;
-            guna2Button2.Location = new Point(388, 434);
+            guna2Button2.Location = new Point(485, 542);
             guna2Button2.Margin = new Padding(2);
             guna2Button2.Name = "guna2Button2";
             guna2Button2.ShadowDecoration.CustomizableEdges = customizableEdges28;
-            guna2Button2.Size = new Size(200, 50);
+            guna2Button2.Size = new Size(250, 62);
             guna2Button2.TabIndex = 35;
             guna2Button2.Text = "Xem lịch sử chơi";
             guna2Button2.Click += Lichsu_Click;
             // 
             // Room
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(255, 255, 192);
-            ClientSize = new Size(782, 504);
+            ClientSize = new Size(978, 630);
             Controls.Add(guna2Button2);
             Controls.Add(btnGhepNgauNhien);
             Controls.Add(guna2HtmlLabel3);

@@ -52,11 +52,12 @@
             guna2ShadowPanel1.BackColor = Color.Transparent;
             guna2ShadowPanel1.Controls.Add(labelYourScore);
             guna2ShadowPanel1.FillColor = Color.White;
-            guna2ShadowPanel1.Location = new Point(321, 31);
+            guna2ShadowPanel1.Location = new Point(247, 24);
+            guna2ShadowPanel1.Margin = new Padding(2, 2, 2, 2);
             guna2ShadowPanel1.Name = "guna2ShadowPanel1";
             guna2ShadowPanel1.Radius = 15;
             guna2ShadowPanel1.ShadowColor = Color.Black;
-            guna2ShadowPanel1.Size = new Size(610, 84);
+            guna2ShadowPanel1.Size = new Size(469, 66);
             guna2ShadowPanel1.TabIndex = 0;
             // 
             // labelYourScore
@@ -64,9 +65,10 @@
             labelYourScore.BackColor = Color.Transparent;
             labelYourScore.Font = new Font("Comic Sans MS", 16.125F, FontStyle.Bold, GraphicsUnit.Point, 0);
             labelYourScore.ForeColor = Color.IndianRed;
-            labelYourScore.Location = new Point(166, 3);
+            labelYourScore.Location = new Point(128, 2);
+            labelYourScore.Margin = new Padding(2, 2, 2, 2);
             labelYourScore.Name = "labelYourScore";
-            labelYourScore.Size = new Size(314, 62);
+            labelYourScore.Size = new Size(233, 47);
             labelYourScore.TabIndex = 0;
             labelYourScore.Text = "labelYourScore";
             // 
@@ -78,18 +80,20 @@
             guna2ShadowPanel2.Controls.Add(btnReplay);
             guna2ShadowPanel2.Controls.Add(labelLeaderboardTitle);
             guna2ShadowPanel2.FillColor = Color.White;
-            guna2ShadowPanel2.Location = new Point(487, 147);
+            guna2ShadowPanel2.Location = new Point(375, 115);
+            guna2ShadowPanel2.Margin = new Padding(2, 2, 2, 2);
             guna2ShadowPanel2.Name = "guna2ShadowPanel2";
             guna2ShadowPanel2.Radius = 20;
             guna2ShadowPanel2.ShadowColor = Color.Black;
-            guna2ShadowPanel2.Size = new Size(746, 610);
+            guna2ShadowPanel2.Size = new Size(574, 477);
             guna2ShadowPanel2.TabIndex = 1;
             // 
             // flowLayoutPanel
             // 
-            flowLayoutPanel.Location = new Point(110, 106);
+            flowLayoutPanel.Location = new Point(85, 83);
+            flowLayoutPanel.Margin = new Padding(2, 2, 2, 2);
             flowLayoutPanel.Name = "flowLayoutPanel";
-            flowLayoutPanel.Size = new Size(528, 384);
+            flowLayoutPanel.Size = new Size(406, 300);
             flowLayoutPanel.TabIndex = 3;
             // 
             // btnExit
@@ -103,10 +107,11 @@
             btnExit.FillColor = Color.SandyBrown;
             btnExit.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnExit.ForeColor = Color.MidnightBlue;
-            btnExit.Location = new Point(424, 518);
+            btnExit.Location = new Point(326, 405);
+            btnExit.Margin = new Padding(2, 2, 2, 2);
             btnExit.Name = "btnExit";
             btnExit.ShadowDecoration.CustomizableEdges = customizableEdges2;
-            btnExit.Size = new Size(258, 76);
+            btnExit.Size = new Size(198, 59);
             btnExit.TabIndex = 2;
             btnExit.Text = "🔙 Thoát";
             // 
@@ -121,21 +126,23 @@
             btnReplay.FillColor = Color.SandyBrown;
             btnReplay.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnReplay.ForeColor = Color.MidnightBlue;
-            btnReplay.Location = new Point(77, 518);
+            btnReplay.Location = new Point(59, 405);
+            btnReplay.Margin = new Padding(2, 2, 2, 2);
             btnReplay.Name = "btnReplay";
             btnReplay.ShadowDecoration.CustomizableEdges = customizableEdges4;
-            btnReplay.Size = new Size(258, 76);
+            btnReplay.Size = new Size(198, 59);
             btnReplay.TabIndex = 1;
             btnReplay.Text = " ⇄ Chơi lại";
             // 
             // labelLeaderboardTitle
             // 
             labelLeaderboardTitle.BackColor = Color.Transparent;
-            labelLeaderboardTitle.Font = new Font("Cooper Black", 18F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            labelLeaderboardTitle.Font = new Font("Cooper Black", 16F, FontStyle.Regular, GraphicsUnit.Point, 0);
             labelLeaderboardTitle.ForeColor = Color.DarkSlateBlue;
-            labelLeaderboardTitle.Location = new Point(230, 17);
+            labelLeaderboardTitle.Location = new Point(177, 13);
+            labelLeaderboardTitle.Margin = new Padding(2, 2, 2, 2);
             labelLeaderboardTitle.Name = "labelLeaderboardTitle";
-            labelLeaderboardTitle.Size = new Size(288, 57);
+            labelLeaderboardTitle.Size = new Size(190, 38);
             labelLeaderboardTitle.TabIndex = 0;
             labelLeaderboardTitle.Text = "Final result";
             // 
@@ -144,21 +151,23 @@
             guna2Panel1.BackgroundImage = (Image)resources.GetObject("guna2Panel1.BackgroundImage");
             guna2Panel1.BackgroundImageLayout = ImageLayout.Stretch;
             guna2Panel1.CustomizableEdges = customizableEdges5;
-            guna2Panel1.Location = new Point(29, 207);
+            guna2Panel1.Location = new Point(22, 162);
+            guna2Panel1.Margin = new Padding(2, 2, 2, 2);
             guna2Panel1.Name = "guna2Panel1";
             guna2Panel1.ShadowDecoration.CustomizableEdges = customizableEdges6;
-            guna2Panel1.Size = new Size(428, 498);
+            guna2Panel1.Size = new Size(329, 389);
             guna2Panel1.TabIndex = 2;
             // 
             // ResultForm
             // 
-            AutoScaleDimensions = new SizeF(13F, 32F);
+            AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(255, 255, 192);
-            ClientSize = new Size(1271, 792);
+            ClientSize = new Size(978, 619);
             Controls.Add(guna2Panel1);
             Controls.Add(guna2ShadowPanel2);
             Controls.Add(guna2ShadowPanel1);
+            Margin = new Padding(2, 2, 2, 2);
             Name = "ResultForm";
             Text = "ResultForm";
             guna2ShadowPanel1.ResumeLayout(false);
