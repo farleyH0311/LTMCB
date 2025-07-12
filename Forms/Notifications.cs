@@ -50,10 +50,12 @@ namespace WordUp.Forms
 
                 foreach (var (id, notification) in notifications)
                 {
+
+                    string time = notification.Timestamp.ToString("HH:mm dd/MM");
                     string message = notification.Type switch
                     {
-                        "like" => $"{notification.SenderId} đã thích bài viết của bạn",
-                        "comment" => $"{notification.SenderId} đã bình luận bài viết của bạn",
+                        "like" => $"{notification.SenderId} đã thích bài viết của bạn\n                                                          🕒 {time}",
+                        "comment" => $"{notification.SenderId} đã bình luận bài viết của bạn\n                                                          🕒 {time}",
                         _ => "Loại thông báo không xác định"
                     };
 

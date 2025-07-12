@@ -263,7 +263,7 @@
             panel1.Controls.Add(button_exit);
             panel1.Controls.Add(up_cmt);
             panel1.Controls.Add(listBox2);
-            panel1.Location = new Point(292, 179);
+            panel1.Location = new Point(292, 181);
             panel1.Margin = new Padding(2);
             panel1.Name = "panel1";
             panel1.Size = new Size(701, 444);
@@ -504,7 +504,7 @@
             // 
             flowPanelPosts.AutoScroll = true;
             flowPanelPosts.FlowDirection = FlowDirection.TopDown;
-            flowPanelPosts.Location = new Point(360, 179);
+            flowPanelPosts.Location = new Point(393, 179);
             flowPanelPosts.Margin = new Padding(2);
             flowPanelPosts.Name = "flowPanelPosts";
             flowPanelPosts.Size = new Size(524, 374);
