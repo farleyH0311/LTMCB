@@ -59,14 +59,16 @@ namespace WordUp.Forms
             int y = 10;
             foreach (string lesson in lessons)
             {
-                Guna.UI2.WinForms.Guna2Button btn = new Guna.UI2.WinForms.Guna2Button();
+                Guna2Button btn = new Guna2Button();
                 btn.Text = lesson;
-                btn.Size = new Size(180, 36);
+                btn.Size = new Size(panelLessonDropdown.Width - 50, 50);
                 btn.Location = new Point(10, y);
-                btn.BorderRadius = 10;
+                btn.BorderRadius = 5;
                 btn.FillColor = Color.White;
                 btn.ForeColor = Color.Black;
-                btn.Font = new Font("Segoe UI", 10, FontStyle.Bold);
+                btn.Font = new Font("Segoe UI", 10F, FontStyle.Bold);
+                btn.Padding = new Padding(10, 5, 10, 5);
+                btn.Margin = new Padding(10);
                 btn.Click += (s, e) =>
                 {
                     btnSelectLesson.Text = lesson;

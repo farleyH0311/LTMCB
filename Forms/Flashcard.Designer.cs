@@ -136,12 +136,12 @@ namespace WordUp.Forms
             panelLessonDropdown.BackColor = Color.Transparent;
             panelLessonDropdown.CustomizableEdges = customizableEdges1;
             panelLessonDropdown.FillColor = Color.WhiteSmoke;
-            panelLessonDropdown.Location = new Point(2500, 2500);
+            panelLessonDropdown.Location = new Point(2000, 2000);
             panelLessonDropdown.Margin = new Padding(4);
             panelLessonDropdown.Name = "panelLessonDropdown";
             panelLessonDropdown.ShadowDecoration.CustomizableEdges = customizableEdges2;
             panelLessonDropdown.ShadowDecoration.Enabled = true;
-            panelLessonDropdown.Size = new Size(324, 375);
+            panelLessonDropdown.Size = new Size(509, 375);
             panelLessonDropdown.TabIndex = 30;
             panelLessonDropdown.Visible = false;
             // 
